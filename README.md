@@ -7,6 +7,8 @@
 ## Semaine 2
   SWOT :
     1. Strength  
+      - a
+      - ad
     2. Weakness  
     3. Opportunities  
     4. Threath  
