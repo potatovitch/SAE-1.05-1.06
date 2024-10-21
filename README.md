@@ -1,6 +1,9 @@
 # SAE-1.05-1.06
 
 **entreprise choisit** : _nom entreprise_ 
+## Rôles du groupe (où qqch comme ça)
+- **chef de projet** : Mohamed
+- y a rien d'autre je croit
 
 ## Semaine 1
 **Tableau des caractéristiques :**
