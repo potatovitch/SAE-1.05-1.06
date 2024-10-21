@@ -1,6 +1,6 @@
 # SAE-1.05-1.06
 
-**entreprise choisit** : __nom entreprise__ 
+**entreprise choisit** : _nom entreprise_ 
 
 ## Semaine 1
 tableau des caractéristiques :
