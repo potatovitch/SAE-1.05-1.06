@@ -3,7 +3,7 @@
 **entreprise choisit** : _nom entreprise_ 
 
 ## Semaine 1
-tableau des caractéristiques :
+**tableau des caractéristiques :**
 1. a
    - a
    - b
@@ -19,7 +19,7 @@ tableau des caractéristiques :
 
 
 ## Semaine 2
-SWOT :
+**SWOT :**
 1. Strength
    - a
    - b
@@ -39,16 +39,16 @@ SWOT :
     
 
 ## Semaine 3
-newsletter :  
+**newsletter :**  
 
 ## Semaine 4
-design graphique:  
+**design graphique:**  
 
 ## Semaine 5
-dev web: 
+**dev web:** 
 
 ## Semaine 6
-publication interne de la newsletter
+**publication interne de la newsletter:**
 
 
 ---
