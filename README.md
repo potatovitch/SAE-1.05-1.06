@@ -3,7 +3,7 @@
 **entreprise choisit** : _nom entreprise_ 
 
 ## Semaine 1
-**tableau des caractéristiques :**
+**Tableau des caractéristiques :**
 1. a
    - a
    - b
@@ -39,17 +39,16 @@
     
 
 ## Semaine 3
-**newsletter :**  
+**Newsletter :**  
 
 ## Semaine 4
-**design graphique:**  
+**Design graphique:**  
 
 ## Semaine 5
-**dev web:** 
+**Dev Web:** 
 
 ## Semaine 6
-**publication interne de la newsletter:**
-
+**Publication Interne de la Newsletter:**
 
 ---
 
