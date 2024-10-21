@@ -1,8 +1,20 @@
 # SAE-1.05-1.06
 
 ## Semaine 1
-  tableau des caractéristiques :
-    
+tableau des caractéristiques :
+1. a
+   - a
+   - b
+   - c
+3. b
+   - a
+   - b
+   - c
+5. c
+   - a
+   - b
+   - c
+
 
 ## Semaine 2
 SWOT :
@@ -25,16 +37,16 @@ SWOT :
     
 
 ## Semaine 3
-  newsletter :  
+newsletter :  
 
 ## Semaine 4
-  design graphique:  
+design graphique:  
 
 ## Semaine 5
-  dev web: 
+dev web: 
 
 ## Semaine 6
-  publication interne de la newsletter
+publication interne de la newsletter
 
 
 ---
