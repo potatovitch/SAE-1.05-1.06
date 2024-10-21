@@ -53,4 +53,11 @@
 ---
 
 ## vidéo soutenance (je met au cas ou mm si y a peu de chances qu'on doivent la faire)
+
+---
+
+## liens ++
     
+[**Moodle**](https://moodle.univ-lille.fr/course/view.php?id=30388&sectionid=262716)
+[**tuto basique markdown**](https://www.markdownguide.org/) _(pour écrire sur le readme.md)_
+**mon discord** : yu_neria
