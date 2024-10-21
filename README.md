@@ -2,8 +2,7 @@
 
 **entreprise choisit** : _nom entreprise_ 
 ## Rôles du groupe (où qqch comme ça)
-- **chef de projet** : Mohamed
-- y a rien d'autre je croit
+- **chef de projet** : Mohamed (il s'est autodésigné ce chef)
 
 ## Semaine 1
 **Tableau des caractéristiques :**
