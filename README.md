@@ -22,6 +22,7 @@
 
 ## Semaine 2
 **SWOT :**
+*_5 par partie_*
 1. Strength
    - a
    - b
