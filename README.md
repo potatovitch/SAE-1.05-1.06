@@ -22,7 +22,8 @@
 
 ## Semaine 2
 **SWOT :**
-*_5 par partie_*
+*_5 par partie_*.  
+*_sur 10 points_*
 1. Strength
    - a
    - b
@@ -43,6 +44,7 @@
 
 ## Semaine 3
 **Newsletter :**  
+*_sur 10 points_*
 
 ## Semaine 4
 **Design graphique:**  
