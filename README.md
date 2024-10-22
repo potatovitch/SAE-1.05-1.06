@@ -48,10 +48,11 @@
 **Design graphique:**  
 
 ## Semaine 5
-**Dev Web:** 
 
 ## Semaine 6
 **Publication Interne de la Newsletter:**
+
+## Dev Web
 
 ## vidéo soutenance (je met au cas ou mm si y a peu de chances qu'on doivent la faire)
 
