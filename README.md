@@ -21,7 +21,11 @@
 **sources** : [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
 7. Ressources :
    - financières :
-      > a
+      > - ventes de jeux via le store :
+      > - micro transaction : 
+      > - unreal engine :
+      > - ventes de leurs propres jeux(avant la création du store)
+      > - investissement et financement externe :
    - matériel et technologies :
       > a
    - commerciales :
