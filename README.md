@@ -65,32 +65,32 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
           - Figurines et objets de collection :
       > 3. Epic MegaGrants:
    - humaines :
-      > 1. Employés et talent
-          - Développeurs de jeux vidéo :
-          - ingénieur logiciel :
-          - Spécialistes du multijoueur et du cloud :
-          - Experts en IA :
-          - Designers UX/UI :
-          - Artistes :
-      > 2. Leadership et management :
-          - Tim Sweeney :
-          - Mark Rein :
-      > 3. Départements RH et formation :
-          - Recrutement et gestion des talents :
-          - Formation et développement professionnel :
-      > 4. Équipes internationales :
-          - Cary, Caroline du Nord :
-          - Bureaux à l'international :
-      > 5. Support client et services aux joueurs :
-          - Support technique: 
-          - Modération et sécurité :
-      > 6. Marketing, relations publiques et communication :
-          - Marketing :
-          - Relations publiques et partenariats :
-      > 7. Équipe juridique et financière :
-          - Affaires juridiques :
-          - Finance et comptabilité :
-      > 8. Externalisation et partenaires :
+      > 1. Employés et talent. 
+          - Développeurs de jeux vidéo :  
+          - ingénieur logiciel :  
+          - Spécialistes du multijoueur et du cloud :  
+          - Experts en IA :  
+          - Designers UX/UI :  
+          - Artistes :  
+      > 2. Leadership et management :  
+          - Tim Sweeney :  
+          - Mark Rein :  
+      > 3. Départements RH et formation :  
+          - Recrutement et gestion des talents :  
+          - Formation et développement professionnel :  
+      > 4. Équipes internationales : 
+          - Cary, Caroline du Nord :  
+          - Bureaux à l'international :  
+      > 5. Support client et services aux joueurs :  
+          - Support technique:  
+          - Modération et sécurité :  
+      > 6. Marketing, relations publiques et communication :  
+          - Marketing :  
+          - Relations publiques et partenariats :  
+      > 7. Équipe juridique et financière :  
+          - Affaires juridiques :  
+          - Finance et comptabilité :  
+      > 8. Externalisation et partenaires :  
 
 9. Nature de l'activité :
     > a
