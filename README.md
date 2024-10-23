@@ -30,26 +30,26 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
       > - **ventes de leurs propres jeux(avant la création du store)**
       > - **investissement et financement externe :**
    - matériel et technologies :
-      > 1. technologies :
-          1. unreal engine :
-            - Graphismes en temps réel :
-            - nanite :
-            - lumen :
-            - méta humain :
-          2. Epic online services :
-            - multijoueur :
-            - cloud save :
-            - cross platform :
-          3. Epic game store :
-          4. jeux Epic :
-            - serveur cloud :
-            - easy anti cheat :
-          5. logiciel 3D :
-            rachat de logiciel 3D 
-            - houdini
-            - maya
-            - blender
-            - zbrush
+      > 1. technologies :  
+          1. unreal engine :  
+            - Graphismes en temps réel :  
+            - nanite :  
+            - lumen :  
+            - méta humain :  
+          2. Epic online services :  
+            - multijoueur :  
+            - cloud save :  
+            - cross platform :  
+          3. Epic game store :  
+          4. jeux Epic :  
+            - serveur cloud :  
+            - easy anti cheat :  
+          5. logiciel 3D :  
+            rachat de logiciel 3D   
+            - houdini. 
+            - maya. 
+            - blender. 
+            - zbrush. 
 
         2. matériel :
           -
