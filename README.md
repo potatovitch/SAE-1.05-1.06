@@ -99,7 +99,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 13. Champ d'action géographique :
     > Epic games est présent a échelle mondiale.
 
-**sources** :  
+**liste des sources** :  
 - [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
 
 ## Semaine 2
