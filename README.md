@@ -97,7 +97,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 11. Secteur économique (Déterminé par l'act principale) :
     > **l'industrie du jeu vidéo et la technologie**
 13. Champ d'action géographique :
-    > a
+    > Epic games est présent a échelle mondiale.
 
 **sources** :  
 - [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
