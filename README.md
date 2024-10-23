@@ -81,6 +81,11 @@
 
 ## vidéo soutenance (je met au cas ou mm si y a peu de chances qu'on doivent la faire)
 
+## To Do List
+1. finir le tableau des caractéristiques 
+2. avancer sur le swot
+3. commencer a réfléchir(mdr) sur la gueule de la maquette 
+
 ## liens ++
     
 [**Moodle**](https://moodle.univ-lille.fr/course/view.php?id=30388&sectionid=262716)  
