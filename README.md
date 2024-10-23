@@ -22,7 +22,7 @@
 7. Ressources :
    - financières :
       > - **ventes de jeux via le store :**
-      > - **micro transaction : **
+      > - **micro transaction :**
       > - **unreal engine :**
       > - **ventes de leurs propres jeux(avant la création du store)**
       > - **investissement et financement externe :**
