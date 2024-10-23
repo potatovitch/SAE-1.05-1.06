@@ -41,28 +41,28 @@
 *_5 par partie_*.  
 *_sur 10 points_*
 1. Strength
-   - a
-   - b
-   - c
-   - d
+   - unreal engine :
+   - fortnite :
+   - Epic game store :
+   - financements :
    - e
 3. Weakness
-   - a
-   - b
-   - c
+   - dépendances a fortnite :
+   - problème juridiques :
+   - concurrence sur le marché des moteur de jeux :
    - d
    - e
 5. Opportunities
-   - a
-   - b
-   - c
-   - d
+   - expentions de unreal engine :
+   - diversification du store :
+   - expansion vers le marché des jeux mobiles :
+   - expansion vers l'AR et la VR :
    - e
 7. Threath
-   - a
-   - b
-   - c
-   - d
+   - concurrence intense :
+   - réglementation accrus :
+   - fluctuation du marché :
+   - cyber attaque et piratage :
    - e
 
 ## Semaine 3
