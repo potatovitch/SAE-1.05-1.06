@@ -95,7 +95,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 9. Nature de l'activité :
     > a
 11. Secteur économique (Déterminé par l'act principale) :
-    > a
+    > **l'industrie du jeu vidéo et la technologie**
 13. Champ d'action géographique :
     > a
 
