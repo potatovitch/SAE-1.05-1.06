@@ -11,7 +11,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 **Tableau des caractéristiques :**
 1. Type d'organisation :
    > Société civile/Société commerciale/Autres types de sociétés.  
-**sources** : [linkedin](https://fr.linkedin.com/company/epic-games)
+**source** : [linkedin](https://fr.linkedin.com/company/epic-games)
 3. Finalité, but et objectifs :
    - finalité :
       > création et édition de jeux vidéo 
@@ -21,7 +21,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
       > innover dans le monde du jeu vidéo et ce qui y est rattaché 
 5. forme juridique :
    > société à capitaux privés  
-**sources** : [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
+**source** : [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
 7. Ressources :
    - financières :
       > - **ventes de jeux via le store :**
