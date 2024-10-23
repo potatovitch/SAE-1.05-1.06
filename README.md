@@ -152,12 +152,13 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 ### pas de nom pour la partie
 **je vous ai préparé le travail, il faut juste**.  
 1. faut changer toutes les réponses pour faire sur canva
-1. finir le tableau des caractéristiques 
+2. finir le tableau des caractéristiques 
   > écrire un bref paragraphe d'explication de chaques point.
-2. avancer sur le swot
+3. avancer sur le swot
   > - finir les points 
   > - écrire un bref paragraphe d'explication de chaques point.
-3. commencer a réfléchir(mdr) sur la gueule de la maquette 
+4. commencer a réfléchir(mdr) sur la gueule de la maquette 
+
 ### indications
 1. apprenez a utiliser markdown, vous en aurez besoin en fin S1/S2, et ça sera pratique pour ce projet 
 2. Mettez les sources pour chaque réponses
