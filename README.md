@@ -88,10 +88,14 @@
 ## vidéo soutenance (je met au cas ou mm si y a peu de chances qu'on doivent la faire)
 
 ## To Do List
+### pas de nom pour la partie
 **je vous ai préparé le travail, il faut juste**
 1. finir le tableau des caractéristiques 
 2. avancer sur le swot
 3. commencer a réfléchir(mdr) sur la gueule de la maquette 
+### indications
+1. apprenez a utiliser markdown, vous en aurez besoin en fin S1, et S2, et ça sera pratique pour ce projet 
+2. Mettez les sources pour chaque réponses
 
 ## liens ++
     
