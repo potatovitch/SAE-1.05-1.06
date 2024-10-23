@@ -7,7 +7,7 @@
 ## Semaine 1
 **Tableau des caractéristiques :**
 1. Type d'organisation :
-   > Société civile/Société commerciale/Autres types de sociétés
+   > Société civile/Société commerciale/Autres types de sociétés.  
 **sources** : [linkedin](https://fr.linkedin.com/company/epic-games)
 3. Finalité, but et objectifs :
    - finalité :
@@ -17,7 +17,7 @@
    - objectif(s) :
       > innover dans le monde du jeu vidéo et ce qui y est rattaché 
 5. forme juridique :
-   > société à capitaux privés 
+   > société à capitaux privés  
 **sources** : [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
 7. Ressources :
    - financières :
