@@ -46,10 +46,10 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
             - easy anti cheat :  
           5. logiciel 3D :  
             rachat de logiciel 3D   
-            - houdini. 
-            - maya. 
-            - blender. 
-            - zbrush. 
+            - houdini.  
+            - maya.  
+            - blender.  
+            - zbrush.  
 
         2. matériel :
           -
