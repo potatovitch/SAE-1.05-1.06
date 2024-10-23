@@ -150,6 +150,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 
 ## To Do List
 ### pas de nom pour la partie
+1. faut changer toutes les réponses pour faire sur canva
 **je vous ai préparé le travail, il faut juste**
 1. finir le tableau des caractéristiques 
   > écrire un bref paragraphe d'explication de chaques point.
