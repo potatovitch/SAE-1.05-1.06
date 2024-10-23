@@ -60,10 +60,10 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
       > 1. Partenariats stratégiques et collaborations :
           - Partenariats avec des marques de divertissement :
           - Collaborations technologiques :
-        2. Ventes directes et merchandising :
+      > 2. Ventes directes et merchandising :
           - Merchandising Fortnite :
           - Figurines et objets de collection :
-        3. Epic MegaGrants:
+      > 3. Epic MegaGrants:
    - humaines :
       > a
 9. Nature de l'activité :
