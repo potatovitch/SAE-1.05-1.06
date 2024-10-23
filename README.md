@@ -7,7 +7,8 @@
 ## Semaine 1
 **Tableau des caractéristiques :**
 1. Type d'organisation :
-   > a
+   > Société civile/Société commerciale/Autres types de sociétés
+**sources** : [linkedin](https://fr.linkedin.com/company/epic-games)
 3. Finalité, but et objectifs :
    - finalité :
       > a
