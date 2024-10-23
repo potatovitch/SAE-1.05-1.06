@@ -1,4 +1,7 @@
 # SAE-1.05-1.06
+readme contenant l'intégralité des réponse + liens vers les fichiers correspondants
+
+---
 
 **entreprise choisit** : _nom entreprise_ 
 ## Rôles du groupe (où qqch comme ça)
