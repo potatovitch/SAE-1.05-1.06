@@ -16,7 +16,7 @@
    - objectif(s) :
       > a
 5. forme juridique :
-   > a 
+   > société à capitaux privés 
 7. Ressources :
    - financières :
       > a
