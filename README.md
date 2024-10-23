@@ -100,6 +100,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
     > Epic games est présent a échelle mondiale.
 
 **liste des sources** :  
+- [linkedin](https://fr.linkedin.com/company/epic-games)
 - [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
 
 ## Semaine 2
