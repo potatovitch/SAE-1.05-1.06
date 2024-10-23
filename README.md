@@ -6,19 +6,32 @@
 
 ## Semaine 1
 **Tableau des caractéristiques :**
-1. a
-   - a
-   - b
-   - c
-3. b
-   - a
-   - b
-   - c
-5. c
-   - a
-   - b
-   - c
-
+1. Type d'organisation :
+   > a
+3. Finalité, but et objectifs :
+   - finalité :
+      > a
+   - but :
+      > a
+   - objectif(s) :
+      > a
+5. forme juridique :
+   > a 
+7. Ressources :
+   - financières :
+      > a
+   - matériel et technologies :
+      > a
+   - commerciales :
+      > a
+   - humaines :
+      > a
+9. Nature de l'activité :
+    > a
+11. Secteur économique (Déterminé par l'act principale) :
+    > a
+13. Champ d'action géographique :
+    > a
 
 ## Semaine 2
 **SWOT :**
@@ -28,19 +41,26 @@
    - a
    - b
    - c
+   - d
+   - e
 3. Weakness
    - a
    - b
    - c
+   - d
+   - e
 5. Opportunities
    - a
    - b
    - c
+   - d
+   - e
 7. Threath
    - a
    - b
    - c
-    
+   - d
+   - e
 
 ## Semaine 3
 **Newsletter :**  
@@ -62,4 +82,3 @@
     
 [**Moodle**](https://moodle.univ-lille.fr/course/view.php?id=30388&sectionid=262716)  
 [**tuto basique markdown**](https://www.markdownguide.org/) _(pour écrire sur le readme.md)_  
-**mon discord** : yu_neria
