@@ -18,6 +18,7 @@
       > innover dans le monde du jeu vidéo et ce qui y est rattaché 
 5. forme juridique :
    > société à capitaux privés 
+**sources** : [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
 7. Ressources :
    - financières :
       > a
