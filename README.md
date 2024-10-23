@@ -33,7 +33,8 @@
 13. Champ d'action géographique :
     > a
 
-**sources** : [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
+**sources** :  
+- [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
 
 ## Semaine 2
 **SWOT :**
