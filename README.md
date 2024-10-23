@@ -11,11 +11,11 @@
 **sources** : [linkedin](https://fr.linkedin.com/company/epic-games)
 3. Finalité, but et objectifs :
    - finalité :
-      > a
+      > création et édition de jeux vidéo 
    - but :
-      > a
+      > lucratif
    - objectif(s) :
-      > a
+      > innover dans le monde du jeu vidéo et ce qui y est rattaché 
 5. forme juridique :
    > société à capitaux privés 
 7. Ressources :
