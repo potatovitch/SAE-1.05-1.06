@@ -51,8 +51,11 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
             - blender.  
             - zbrush.  
 
-        2. matériel :
-          -
+        > 2. matériel :
+            - Stations de travail haut de gamme :
+            - AR/VR :
+            - motion capture :
+            - scanner 3D :
    - commerciales :
       > a
    - humaines :
