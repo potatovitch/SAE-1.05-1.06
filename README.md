@@ -94,7 +94,7 @@
 2. avancer sur le swot
 3. commencer a réfléchir(mdr) sur la gueule de la maquette 
 ### indications
-1. apprenez a utiliser markdown, vous en aurez besoin en fin S1, et S2, et ça sera pratique pour ce projet 
+1. apprenez a utiliser markdown, vous en aurez besoin en fin S1/S2, et ça sera pratique pour ce projet 
 2. Mettez les sources pour chaque réponses
 
 ## liens ++
