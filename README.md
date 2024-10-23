@@ -3,7 +3,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 
 ---
 
-**entreprise choisit** : _Canva_ (donc faut tout changer parce que là c'est sur Epic games)
+**entreprise choisit** : _Canva_ (donc faut tout changer parce que là c'est sur Epic games, mais là j'ai la flm)
 ## Rôles du groupe (où qqch comme ça)
 - **chef de projet** : Mohamed (il s'est autodésigné ce chef)
 
