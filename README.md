@@ -13,12 +13,12 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
    > Privately Held  
      **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
 3. Finalité, But et Objectifs :
-   - Finalité :
-      > 
-   - But :
-      > 
-   - Objectif(s) :
-      > 
+   > Finalité :
+      -
+   > But :
+      -
+   > Objectif(s) :
+      -
 5. Forme Juridique :
    > 
 7. Ressources :
