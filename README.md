@@ -139,7 +139,7 @@ plateforme numérique de design graphique. (pas sûr j'ai pas vérif)
 ## To Do List
 ### tracafer
 **je vous ai préparé le travail, il faut juste**.  
-1. faut changer toutes les réponses pour faire sur canva
+
 2. finir le tableau des caractéristiques 
   > écrire un bref paragraphe d'explication de chaques point.
 3. avancer sur le swot
