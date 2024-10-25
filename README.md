@@ -143,8 +143,8 @@ plateforme numérique de design graphique. (pas sûr j'ai pas vérif)
 2. finir le tableau des caractéristiques 
   > écrire un bref paragraphe d'explication de chaques point.
 3. avancer sur le swot
-  &emsp; > - finir les points 
-  &emsp; > - écrire un bref paragraphe d'explication de chaques point avec sources.
+  > - finir les points 
+  > - écrire un bref paragraphe d'explication de chaques point avec sources.
 4. commencer a réfléchir(mdr) sur la gueule de la maquette 
 
 ### indications
