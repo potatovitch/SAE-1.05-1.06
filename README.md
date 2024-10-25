@@ -9,23 +9,23 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 
 ## Semaine 1
 ### Tableau des Caractéristiques :
-**1. Type d'Organisation :**
-   > Startup technologique / SaaS
+**1. Type d'Organisation :**  
+   > Startup technologique / SaaS  
      
-**3. Finalité, But et Objectifs :**
-   > Finalité :
-      - démocratiser le design graphique
-   > But :
-      - lucratif
-   > Objectif(s) :
-      - Faciliter l’accès au design pour le grand public
-      - Fournir des outils de collaboration
-      - Élargir l’utilisation des visuels dans la communication
-**5. Forme Juridique :**
-   > société privée
+**3. Finalité, But et Objectifs :**  
+   > Finalité :  
+      - démocratiser le design graphique  
+   > But :  
+      - lucratif  
+   > Objectif(s) :  
+      - Faciliter l’accès au design pour le grand public  
+      - Fournir des outils de collaboration  
+      - Élargir l’utilisation des visuels dans la communication  
+**5. Forme Juridique :**  
+   > société privée  
      **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
-**7. Ressources :**
-   > financières  
+**7. Ressources :**  
+   > financières   
      1. Le financement par capital-risque.  
      2. Revenus des abonnements payants (modèle freemium).  
         - Canva Pro.  
@@ -35,8 +35,8 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      4. Partenariats stratégiques et intégrations.  
    > matérielles et technologiques 
      
-   > commerciales
-     1. Modèle économique freemium.  
+   > commerciales  
+     1. Modèle économique freemium.   
      2. Base d'utilisateurs et fidélisation.  
         - Canva for Education.  
         - Canva for Nonprofits.  
@@ -47,7 +47,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      6. Stratégie de marketing digital et contenu éducatif.  
      7. Présence internationale et localisation.  
      
-   > humaines
+   > humaines  
      1. Équipe de direction et fondateurs.  
         - Melanie Perkins.  
         - Cliff Obrecht.  
@@ -62,15 +62,15 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
         - équipe de marketing.  
         - équipe de gestion de la communauté.  
      5. Ventes et partenariats.  
-     ++
+     ++  
      
-**5. Nature de l'Activité :**
-   > tertiaire : 
-plateforme numérique de design graphique. (pas sûr j'ai pas vérif) 
-**6. Secteur de l'Activité :**
-   > Technologie, design graphique, logiciels en ligne.
-**7. Champs d'Action Géographique :**
-   > le monde
+**5. Nature de l'Activité :**  
+   > tertiaire :  
+plateforme numérique de design graphique. (pas sûr j'ai pas vérif)  
+**6. Secteur de l'Activité :**  
+   > Technologie, design graphique, logiciels en ligne.  
+**7. Champs d'Action Géographique :**  
+   > le monde  
 
 ###liste des sources :  
 - [linkedin](https://fr.linkedin.com/company/epic-games)
