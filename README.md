@@ -34,7 +34,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
    - humaines
      >
 5. Nature de l'Activité :
-   >
+   > plateforme numérique de design graphique. (pas sûr j'ai pas vérif) 
 6. Secteur de l'Activité :
    > Technologie, design graphique, logiciels en ligne.
 7. Champs d'Action Géographique :
