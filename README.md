@@ -33,7 +33,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 
 **7. Ressources :**  
 
-   &emsp;*_financières :_*   
+   &emsp**__financières :__**   
    > 1. Le financement par capital-risque.  
    > 2. Revenus des abonnements payants (modèle freemium).  
    >    - Canva Pro.  
