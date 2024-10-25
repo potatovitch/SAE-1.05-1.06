@@ -52,7 +52,10 @@
    > 5. Technologies collaboratives et outils de productivité.  
    > - matérielles.  
    > 1. Équipements de travail pour les équipes.  
+   >    - stations de travail modernes.  
    > 2. Infrastructure de serveurs et hébergement cloud.  
+   >    - Amazon Web Services (AWS).  
+   >    - Cloud Platform (GCP).  
 
      
    &emsp;**_commerciales :_** 
