@@ -33,7 +33,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 
 **7. Ressources :**  
 
-   &emsp;_*financières :*_   
+   &emsp;**_financières :_**   
    > 1. Le financement par capital-risque.  
    > 2. Revenus des abonnements payants (modèle freemium).  
    >    - Canva Pro.  
@@ -42,10 +42,10 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
    > 3. Ventes de ressources graphiques et de contenus premium.  
    > 4. Partenariats stratégiques et intégrations. 
 
-   &emsp;*_matérielles et technologiques :_* 
+   &emsp;**_matérielles et technologiques :_** 
    > BlipBloup 
      
-   &emsp;*_commerciales :_* 
+   &emsp;**_commerciales :_** 
    > 1. Modèle économique freemium.   
    > 2. Base d'utilisateurs et fidélisation.  
    >    - Canva for Education.  
@@ -57,7 +57,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
    > 6. Stratégie de marketing digital et contenu éducatif.  
    > 7. Présence internationale et localisation.  
      
-   &emsp;*_humaines :_*  
+   &emsp;**_humaines :_**  
    > 1. Équipe de direction et fondateurs.  
    >    - Melanie Perkins.  
    >    - Cliff Obrecht.  
