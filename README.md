@@ -59,19 +59,19 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      
    &emsp;humaines :  
    > 1. Équipe de direction et fondateurs.  
-        - Melanie Perkins.  
-        - Cliff Obrecht.  
-        - Cameron Adams.  
-     2. Développement et ingénierie.  
-        - ingénieurs logiciels.  
-        - dev fullstack.  
-        - experts en sécurité informatique.  
-     3. Designers et créatifs.  
-        - designers graphiques.  
-     4. Marketing et gestion de la communauté.  
-        - équipe de marketing.  
-        - équipe de gestion de la communauté.  
-     5. Ventes et partenariats.  
+   >    - Melanie Perkins.  
+   >    - Cliff Obrecht.  
+   >    - Cameron Adams.  
+   > 2. Développement et ingénierie.  
+   >    - ingénieurs logiciels.  
+   >    - dev fullstack.  
+   >    - experts en sécurité informatique.  
+   > 3. Designers et créatifs.  
+   >    - designers graphiques.  
+   > 4. Marketing et gestion de la communauté.  
+   >    - équipe de marketing.  
+   >    - équipe de gestion de la communauté.  
+   > 5. Ventes et partenariats.  
      ++  
      
 **5. Nature de l'Activité :**  
