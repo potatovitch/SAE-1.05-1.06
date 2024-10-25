@@ -16,7 +16,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 **3. Finalité, But et Objectifs :**  
 
    > Finalité :  
-      &emsp;- démocratiser le design graphique  
+      - démocratiser le design graphique  
    > But :  
       - lucratif  
    > Objectif(s) :  
@@ -31,17 +31,19 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 
 **7. Ressources :**  
 
-   financières :   
+   &emsp;financières :   
    > 1. Le financement par capital-risque.  
      2. Revenus des abonnements payants (modèle freemium).  
         - Canva Pro.  
         - Canva for Enterprise.  
         - Canva for Education et Canva for Nonprofits.  
      3. Ventes de ressources graphiques et de contenus premium.  
-     4. Partenariats stratégiques et intégrations.  
-   > matérielles et technologiques 
+     4. Partenariats stratégiques et intégrations. 
+
+   &emsp;matérielles et technologiques  
+   >
      
-   commerciales : 
+   &emsp;commerciales : 
    > 1. Modèle économique freemium.   
      2. Base d'utilisateurs et fidélisation.  
         - Canva for Education.  
@@ -53,7 +55,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      6. Stratégie de marketing digital et contenu éducatif.  
      7. Présence internationale et localisation.  
      
-   humaines :  
+   &emsp;humaines :  
    > 1. Équipe de direction et fondateurs.  
         - Melanie Perkins.  
         - Cliff Obrecht.  
