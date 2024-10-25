@@ -10,8 +10,8 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 ## Semaine 1
 **Tableau des Caractéristiques :**
 1. Type d'Organisation :
-   > Privately Held  
-     **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
+   > Startup technologique / SaaS
+     
 3. Finalité, But et Objectifs :
    > Finalité :
       - démocratiser le design graphique
@@ -23,6 +23,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
       - Élargir l’utilisation des visuels dans la communication
 5. Forme Juridique :
    > 
+     **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
 7. Ressources :
    - financières 
      >
@@ -35,7 +36,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 5. Nature de l'Activité :
    >
 6. Secteur de l'Activité :
-   >
+   > Technologie, design graphique, logiciels en ligne.
 7. Champs d'Action Géographique :
    >
 
