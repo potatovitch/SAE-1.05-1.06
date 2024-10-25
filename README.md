@@ -62,7 +62,7 @@
    >    - normes strictes de sécurité de l'information (RGPD).  
    > 5. Technologies collaboratives et outils de productivité.  
    >    - outils collaboratifs.  
-   >.   - coordonner efficacement leurs activités.
+   >    - coordonner efficacement leurs activités.
 Canva développe également ses propres outils de collaboration intégrés dans la plateforme
    > - matérielles.  
    > 1. Équipements de travail pour les équipes.  
