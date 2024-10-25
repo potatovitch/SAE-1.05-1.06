@@ -38,7 +38,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 6. Secteur de l'Activité :
    > Technologie, design graphique, logiciels en ligne.
 7. Champs d'Action Géographique :
-   >
+   > le monde
 
 **liste des sources** :  
 - [linkedin](https://fr.linkedin.com/company/epic-games)
