@@ -25,7 +25,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
    > société privée
      **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
 7. Ressources :
-   > financières 
+   > financières  
        1. Le financement par capital-risque :
        2. Revenus des abonnements payants (modèle freemium)
           - Canva Pro
