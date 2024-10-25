@@ -16,13 +16,13 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 **3. Finalité, But et Objectifs :**  
 
    > Finalité :  
-      - démocratiser le design graphique  
+   - démocratiser le design graphique  
    > But :  
-      - lucratif  
+   - lucratif  
    > Objectif(s) :  
-      - Faciliter l’accès au design pour le grand public  
-      - Fournir des outils de collaboration  
-      - Élargir l’utilisation des visuels dans la communication  
+   - Faciliter l’accès au design pour le grand public  
+   - Fournir des outils de collaboration  
+   - Élargir l’utilisation des visuels dans la communication  
 
 **5. Forme Juridique :**  
 
