@@ -21,9 +21,11 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
       - Faciliter l’accès au design pour le grand public  
       - Fournir des outils de collaboration  
       - Élargir l’utilisation des visuels dans la communication  
+
 **5. Forme Juridique :**  
    > société privée  
      **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
+
 **7. Ressources :**  
    > financières   
      1. Le financement par capital-risque.  
@@ -67,8 +69,10 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 **5. Nature de l'Activité :**  
    > tertiaire :  
 plateforme numérique de design graphique. (pas sûr j'ai pas vérif)  
+
 **6. Secteur de l'Activité :**  
-   > Technologie, design graphique, logiciels en ligne.  
+   > Technologie, design graphique, logiciels en ligne. 
+ 
 **7. Champs d'Action Géographique :**  
    > le monde  
 
