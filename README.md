@@ -8,7 +8,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 - **chef de projet** : Mohamed (il s'est autodésigné ce chef)
 
 ## Semaine 1
-###Tableau des Caractéristiques :
+### Tableau des Caractéristiques :
 **1. Type d'Organisation :**
    > Startup technologique / SaaS
      
