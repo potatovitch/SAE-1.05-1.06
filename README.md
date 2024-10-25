@@ -140,12 +140,12 @@ plateforme numérique de design graphique. (pas sûr j'ai pas vérif)
 ### tracafer
 **je vous ai préparé le travail, il faut juste**.  
 
-2. finir le tableau des caractéristiques 
+1. finir le tableau des caractéristiques 
   > écrire un bref paragraphe d'explication de chaques point.
-3. avancer sur le swot
+2. avancer sur le swot
   > - finir les points 
   > - écrire un bref paragraphe d'explication de chaques point avec sources.
-4. commencer a réfléchir(mdr) sur la gueule de la maquette 
+3. commencer a réfléchir(mdr) sur la gueule de la maquette 
 
 ### indications
 1. apprenez a utiliser markdown, vous en aurez besoin en fin S1/S2, et ça sera pratique pour ce projet 
