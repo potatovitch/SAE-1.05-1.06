@@ -87,7 +87,7 @@ plateforme numérique de design graphique. (pas sûr j'ai pas vérif)
  
    > le monde  
 
-### liste des sources :  
+### Liste des Sources :  
 - [linkedin](https://www.linkedin.com/company/canva?originalSubdomain=au)
 - [wikipédia](https://fr.m.wikipedia.org/wiki/Canva)
 
