@@ -31,7 +31,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 
 **7. Ressources :**  
 
-   financières   
+   financières :   
    > 1. Le financement par capital-risque.  
      2. Revenus des abonnements payants (modèle freemium).  
         - Canva Pro.  
@@ -41,7 +41,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      4. Partenariats stratégiques et intégrations.  
    > matérielles et technologiques 
      
-   commerciales  
+   commerciales : 
    > 1. Modèle économique freemium.   
      2. Base d'utilisateurs et fidélisation.  
         - Canva for Education.  
@@ -53,7 +53,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      6. Stratégie de marketing digital et contenu éducatif.  
      7. Présence internationale et localisation.  
      
-   humaines  
+   humaines :  
    > 1. Équipe de direction et fondateurs.  
         - Melanie Perkins.  
         - Cliff Obrecht.  
