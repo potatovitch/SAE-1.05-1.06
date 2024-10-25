@@ -10,94 +10,19 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 ## Semaine 1
 **Tableau des caractéristiques :**
 1. Type d'organisation :
-   > Société civile/Société commerciale/Autres types de sociétés.  
-**source** : [linkedin](https://fr.linkedin.com/company/epic-games)
+   > 
+**source** : [](
 3. Finalité, but et objectifs :
    - finalité :
-      > création et édition de jeux vidéo 
+      > 
    - but :
-      > lucratif
+      > 
    - objectif(s) :
-      > innover dans le monde du jeu vidéo et ce qui y est rattaché 
+      > 
 5. forme juridique :
-   > société à capitaux privés  
-**source** : [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
+   > 
 7. Ressources :
-   - financières :
-      > - **ventes de jeux via le store :**
-      > - **micro transaction :**
-      > - **unreal engine :**
-      > - **ventes de leurs propres jeux(avant la création du store)**
-      > - **investissement et financement externe :**
-   - matériel et technologies :
-      > 1. technologies :  
-          1. unreal engine :  
-            - Graphismes en temps réel :  
-            - nanite :  
-            - lumen :  
-            - méta humain :  
-          2. Epic online services :  
-            - multijoueur :  
-            - cloud save :  
-            - cross platform :  
-          3. Epic game store :  
-          4. jeux Epic :  
-            - serveur cloud :  
-            - easy anti cheat :  
-          5. logiciel 3D :  
-            rachat de logiciel 3D   
-            - houdini.  
-            - maya.  
-            - blender.  
-            - zbrush.  
-
-        > 2. matériel :  
-            - Stations de travail haut de gamme :  
-            - AR/VR :  
-            - motion capture :  
-            - scanner 3D :  
-   - commerciales :
-      > 1. Partenariats stratégiques et collaborations :
-          - Partenariats avec des marques de divertissement :
-          - Collaborations technologiques :
-      > 2. Ventes directes et merchandising :
-          - Merchandising Fortnite :
-          - Figurines et objets de collection :
-      > 3. Epic MegaGrants:
-   - humaines :
-      > 1. Employés et talent. 
-          - Développeurs de jeux vidéo :  
-          - ingénieur logiciel :  
-          - Spécialistes du multijoueur et du cloud :  
-          - Experts en IA :  
-          - Designers UX/UI :  
-          - Artistes :  
-      > 2. Leadership et management :  
-          - Tim Sweeney :  
-          - Mark Rein :  
-      > 3. Départements RH et formation :  
-          - Recrutement et gestion des talents :  
-          - Formation et développement professionnel :  
-      > 4. Équipes internationales : 
-          - Cary, Caroline du Nord :  
-          - Bureaux à l'international :  
-      > 5. Support client et services aux joueurs :  
-          - Support technique:  
-          - Modération et sécurité :  
-      > 6. Marketing, relations publiques et communication :  
-          - Marketing :  
-          - Relations publiques et partenariats :  
-      > 7. Équipe juridique et financière :  
-          - Affaires juridiques :  
-          - Finance et comptabilité :  
-      > 8. Externalisation et partenaires :  
-
-9. Nature de l'activité :
-    > a
-11. Secteur économique (Déterminé par l'act principale) :
-    > **l'industrie du jeu vidéo et la technologie**
-13. Champ d'action géographique :
-    > Epic games est présent a échelle mondiale.
+   - 
 
 **liste des sources** :  
 - [linkedin](https://fr.linkedin.com/company/epic-games)
@@ -108,28 +33,28 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 *_5 par partie_*.  
 *_sur 10 points_*
 1. Strength
-   - unreal engine :
-   - fortnite :
-   - Epic game store :
-   - financements :
-   - e
+   - Accessibilité et facilité d’utilisation :
+   - Large bibliothèque de ressources :
+   - Modèle freemium efficace :
+   - Outils collaboratifs :
+   - Adaptabilité multi-plateformes :
 3. Weakness
-   - dépendances a fortnite :
-   - problème juridiques :
-   - concurrence sur le marché des moteur de jeux :
-   - d
-   - e
+   - Dépendance au modèle freemium :
+   - Options de personnalisation limitées :
+   - Propriété intellectuelle des contenus :
+   - Difficultés de performance :
+   - 
 5. Opportunities
-   - expentions de unreal engine :
-   - diversification du store :
-   - expansion vers le marché des jeux mobiles :
-   - expansion vers l'AR et la VR :
+   - Expansion dans les marchés B2B :
+   - Éducation et formation :
+   - Développement de nouvelles fonctionnalités :
+   - Expansion géographique et localisation :
    - e
 7. Threath
-   - concurrence intense :
-   - réglementation accrus :
-   - fluctuation du marché :
-   - cyber attaque et piratage :
+   - Concurrence accrue :
+   - Risque de saturation du marché :
+   - Vulnérabilités en cybersécurité :
+   - Fluctuation des réglementations :
    - e
 
 ## Semaine 3
