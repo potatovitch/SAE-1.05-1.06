@@ -8,21 +8,34 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 - **chef de projet** : Mohamed (il s'est autodésigné ce chef)
 
 ## Semaine 1
-**Tableau des caractéristiques :**
-1. Type d'organisation :
+**Tableau des Caractéristiques :**
+1. Type d'Organisation :
    > 
 **source** : [](
-3. Finalité, but et objectifs :
-   - finalité :
+3. Finalité, But et Objectifs :
+   - Finalité :
       > 
-   - but :
+   - But :
       > 
-   - objectif(s) :
+   - Objectif(s) :
       > 
-5. forme juridique :
+5. Forme Juridique :
    > 
 7. Ressources :
-   - 
+   - financières 
+     >
+   - matérielles et technologiques 
+     >
+   - commerciales
+     >
+   - humaines
+     >
+5. Nature de l'Activité :
+   >
+6. Secteur de l'Activité :
+   >
+7. Champs d'Action Géographique :
+   >
 
 **liste des sources** :  
 - [linkedin](https://fr.linkedin.com/company/epic-games)
