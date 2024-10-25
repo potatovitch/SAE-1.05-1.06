@@ -46,11 +46,11 @@
    &emsp;**_matérielles et technologiques :_** 
    > - technologiques.  
    > 1. Logiciels de design et technologies de développement.  
-   >    - technologies front-end.  
+   >    - technologies utilisé pour le front-end.  
    >      - html.  
    >      - JS.  
    >      - react.  
-   >    - technologies back-end.  
+   >    - technologies utilisé pour le back-end.  
    >      - python  
    >      - node.js.  
    >    - machine learning et d’intelligence artificielle.  
