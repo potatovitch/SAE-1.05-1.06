@@ -14,7 +14,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      
 **3. Finalité, But et Objectifs :**  
    > Finalité :  
-      - démocratiser le design graphique  
+      &nbsp;- démocratiser le design graphique  
    > But :  
       - lucratif  
    > Objectif(s) :  
