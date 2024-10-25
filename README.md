@@ -26,16 +26,26 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
 7. Ressources :
    > financières  
-       1. Le financement par capital-risque.  
-       2. Revenus des abonnements payants (modèle freemium).  
-          - Canva Pro.  
-          - Canva for Enterprise.  
-          - Canva for Education et Canva for Nonprofits.  
-       3. Ventes de ressources graphiques et de contenus premium.  
-       4. Partenariats stratégiques et intégrations.  
+     1. Le financement par capital-risque.  
+     2. Revenus des abonnements payants (modèle freemium).  
+        - Canva Pro.  
+        - Canva for Enterprise.  
+        - Canva for Education et Canva for Nonprofits.  
+     3. Ventes de ressources graphiques et de contenus premium.  
+     4. Partenariats stratégiques et intégrations.  
    > matérielles et technologiques 
      
    > commerciales
+     1. Modèle économique freemium.  
+     2. Base d'utilisateurs et fidélisation.  
+        - Canva for Education.  
+        - Canva for Nonprofits.  
+        - Canva for Enterprise.  
+     3. Bibliothèque de ressources graphiques premium.  
+     4. Outils de collaboration et d'intégration.  
+     5. Réseau de partenaires stratégiques.  
+     6. Stratégie de marketing digital et contenu éducatif.  
+     7. Présence internationale et localisation.  
      
    > humaines
      
