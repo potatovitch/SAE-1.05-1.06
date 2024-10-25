@@ -18,7 +18,9 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
    > But :
       -
    > Objectif(s) :
-      -
+      - Faciliter l’accès au design pour le grand public
+      - Fournir des outils de collaboration
+      - Élargir l’utilisation des visuels dans la communication
 5. Forme Juridique :
    > 
 7. Ressources :
