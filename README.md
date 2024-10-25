@@ -14,7 +14,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
 3. Finalité, But et Objectifs :
    > Finalité :
-      -
+      - démocratiser le design graphique
    > But :
       -
    > Objectif(s) :
