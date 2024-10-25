@@ -73,7 +73,8 @@
    >    - équipe de marketing.  
    >    - équipe de gestion de la communauté.  
    > 5. Ventes et partenariats.  
-     ++  
+   > 6. Support client.  
+   > 7. Recherche et développement (R&D).  
      
 **5. Nature de l'Activité :**  
 
