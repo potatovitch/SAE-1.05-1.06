@@ -76,7 +76,7 @@
      
 **5. Nature de l'Activité :**  
 
-   > tertiaire :  
+   > **tertiaire :**  
 plateforme numérique de design graphique. (pas sûr j'ai pas vérif)  
 
 **6. Secteur de l'Activité :**  
