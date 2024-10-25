@@ -46,10 +46,24 @@
    &emsp;**_matérielles et technologiques :_** 
    > - technologiques.  
    > 1. Logiciels de design et technologies de développement.  
+   >    - technologies front-end.  
+   >      - html.  
+   >      - JS.  
+   >      - react.  
+   >    - technologies back-end.  
+   >      - python  
+   >      - node.js.  
+   >    - machine learning et d’intelligence artificielle.  
    > 2. Réseaux de livraison de contenu (CDN).  
-   > 3. Bases de données et gestion de données.  
+   > 3. Bases de données et gestion de données.
+   >    - systèmes de bases de données relationnelles et non relationnelles.    
    > 4. Systèmes de sécurité et de protection des données.  
+   >    - protocoles de sécurité.  
+   >    - normes strictes de sécurité de l'information (RGPD).  
    > 5. Technologies collaboratives et outils de productivité.  
+   >    - outils collaboratifs.  
+   >.   - coordonner efficacement leurs activités.
+Canva développe également ses propres outils de collaboration intégrés dans la plateforme
    > - matérielles.  
    > 1. Équipements de travail pour les équipes.  
    >    - stations de travail modernes.  
