@@ -2,10 +2,10 @@
 **readme** contenant l'intégralité des réponse + **liens** vers les fichiers correspondants
 
 ---
-### BlipBloup 
+## BlipBloup 
 
 **entreprise choisit** : _Canva_ 
-## Rôles du groupe (où qqch comme ça)
+### Rôles du groupe (où qqch comme ça)
 - **chef de projet** : Mohamed (il s'est autodésigné ce chef)
 
 ## Semaine 1
