@@ -63,7 +63,8 @@
    > 5. Technologies collaboratives et outils de productivité  
    >    - outils collaboratifs  
    >    - coordonner efficacement leurs activités  
-Canva développe également ses propres outils de collaboration intégrés dans la plateforme
+Canva développe également ses propres outils de collaboration intégrés dans la plateforme   
+
    > - matérielles  
    > 1. Équipements de travail pour les équipes
    >    - stations de travail modernes  
