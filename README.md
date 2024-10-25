@@ -22,7 +22,7 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
       - Fournir des outils de collaboration
       - Élargir l’utilisation des visuels dans la communication
 5. Forme Juridique :
-   > 
+   > société privée
      **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
 7. Ressources :
    - financières 
