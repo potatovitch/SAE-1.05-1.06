@@ -34,7 +34,7 @@
 
 **7. Ressources :**  
 
-   &emsp;**_financières :_**   
+   &emsp;**_financières :_**  
    > 1. Le financement par capital-risque.  
    > 2. Revenus des abonnements payants (modèle freemium).  
    >    - Canva Pro.  
@@ -44,7 +44,16 @@
    > 4. Partenariats stratégiques et intégrations. 
 
    &emsp;**_matérielles et technologiques :_** 
-   > BlipBloup 
+   > - technologiques.  
+   > 1. Logiciels de design et technologies de développement.  
+   > 2. Réseaux de livraison de contenu (CDN).  
+   > 3. Bases de données et gestion de données.  
+   > 4. Systèmes de sécurité et de protection des données.  
+   > 5. Technologies collaboratives et outils de productivité.  
+   > - matérielles.  
+   > 1. Équipements de travail pour les équipes.  
+   > 2. Infrastructure de serveurs et hébergement cloud.  
+
      
    &emsp;**_commerciales :_** 
    > 1. Modèle économique freemium.   
