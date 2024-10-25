@@ -8,11 +8,11 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 - **chef de projet** : Mohamed (il s'est autodésigné ce chef)
 
 ## Semaine 1
-**Tableau des Caractéristiques :**
-1. Type d'Organisation :
+###Tableau des Caractéristiques :
+**1. Type d'Organisation :**
    > Startup technologique / SaaS
      
-3. Finalité, But et Objectifs :
+**3. Finalité, But et Objectifs :**
    > Finalité :
       - démocratiser le design graphique
    > But :
@@ -21,10 +21,10 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
       - Faciliter l’accès au design pour le grand public
       - Fournir des outils de collaboration
       - Élargir l’utilisation des visuels dans la communication
-5. Forme Juridique :
+**5. Forme Juridique :**
    > société privée
      **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
-7. Ressources :
+**7. Ressources :**
    > financières  
      1. Le financement par capital-risque.  
      2. Revenus des abonnements payants (modèle freemium).  
@@ -64,15 +64,15 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
      5. Ventes et partenariats.  
      ++
      
-5. Nature de l'Activité :
+**5. Nature de l'Activité :**
    > tertiaire : 
 plateforme numérique de design graphique. (pas sûr j'ai pas vérif) 
-6. Secteur de l'Activité :
+**6. Secteur de l'Activité :**
    > Technologie, design graphique, logiciels en ligne.
-7. Champs d'Action Géographique :
+**7. Champs d'Action Géographique :**
    > le monde
 
-**liste des sources** :  
+###liste des sources :  
 - [linkedin](https://fr.linkedin.com/company/epic-games)
 - [wikipédia](https://fr.m.wikipedia.org/wiki/Epic_Games)
 
