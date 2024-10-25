@@ -137,7 +137,7 @@ plateforme numérique de design graphique. (pas sûr j'ai pas vérif)
 ## vidéo soutenance (je met au cas ou mm si y a peu de chances qu'on doivent la faire)
 
 ## To Do List
-### pas de nom pour la partie
+### tracafer
 **je vous ai préparé le travail, il faut juste**.  
 1. faut changer toutes les réponses pour faire sur canva
 2. finir le tableau des caractéristiques 
