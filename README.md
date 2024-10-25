@@ -45,20 +45,20 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
    >
    > 4. Partenariats stratégiques et intégrations. 
 
-   &emsp;matérielles et technologiques  
-   >
+   &emsp;matérielles et technologiques : 
+   > BlipBloup 
      
    &emsp;commerciales : 
    > 1. Modèle économique freemium.   
-     2. Base d'utilisateurs et fidélisation.  
-        - Canva for Education.  
-        - Canva for Nonprofits.  
-        - Canva for Enterprise.  
-     3. Bibliothèque de ressources graphiques premium.  
-     4. Outils de collaboration et d'intégration.  
-     5. Réseau de partenaires stratégiques.  
-     6. Stratégie de marketing digital et contenu éducatif.  
-     7. Présence internationale et localisation.  
+   > 2. Base d'utilisateurs et fidélisation.  
+   >    - Canva for Education.  
+   >    - Canva for Nonprofits.  
+   >    - Canva for Enterprise.  
+   > 3. Bibliothèque de ressources graphiques premium.  
+   > 4. Outils de collaboration et d'intégration.  
+   > 5. Réseau de partenaires stratégiques.  
+   > 6. Stratégie de marketing digital et contenu éducatif.  
+   > 7. Présence internationale et localisation.  
      
    &emsp;humaines :  
    > 1. Équipe de direction et fondateurs.  
