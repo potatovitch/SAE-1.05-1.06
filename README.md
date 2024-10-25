@@ -73,6 +73,9 @@
    >    - équipe de marketing.  
    >    - équipe de gestion de la communauté.  
    > 5. Ventes et partenariats.  
+   >    - écoles.  
+   >    - entreprises.  
+   >    - organisations à but non-lucratif.  
    > 6. Support client.  
    > 7. Recherche et développement (R&D).  
      
