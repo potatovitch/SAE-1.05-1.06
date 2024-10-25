@@ -10,8 +10,8 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 ## Semaine 1
 **Tableau des Caractéristiques :**
 1. Type d'Organisation :
-   > 
-**source** : []()  
+   > Privately Held
+     **source** : [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
 3. Finalité, But et Objectifs :
    - Finalité :
       > 
