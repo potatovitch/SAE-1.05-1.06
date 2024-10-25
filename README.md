@@ -17,8 +17,10 @@ readme contenant l'intégralité des réponse + liens vers les fichiers correspo
 
    > Finalité :  
    > - démocratiser le design graphique  
+
    > But :  
    > - lucratif  
+
    > Objectif(s) :  
    > - Faciliter l’accès au design pour le grand public  
    > - Fournir des outils de collaboration  
