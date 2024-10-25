@@ -147,7 +147,7 @@ plateforme numérique de design graphique. (pas sûr j'ai pas vérif)
 **je vous ai préparé le travail, il faut juste**.  
 
 1. finir le tableau des caractéristiques 
-  > écrire un bref paragraphe d'explication de chaques point.
+  > écrire un bref paragraphe d'explication de chaques point avec sources.
 2. avancer sur le swot
   > - finir les points 
   > - écrire un bref paragraphe d'explication de chaques point avec sources.
