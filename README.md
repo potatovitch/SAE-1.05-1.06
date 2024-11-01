@@ -2,7 +2,7 @@
 **readme** contenant l'intégralité des réponse + **liens** vers les fichiers correspondants
 
 ---
-## BlipBloup 
+## Canva
 
 **entreprise choisit** : _Canva_ 
 ### Rôles du groupe (où qqch comme ça)
