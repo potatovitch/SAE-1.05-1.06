@@ -136,19 +136,19 @@ plateforme numérique de design graphique (pas sûr j'ai pas vérif)
    - Options de personnalisation limitées :
    - Propriété intellectuelle des contenus :
    - Difficultés de performance :
-   - 
+   - Dépendance à internet :
 5. Opportunities
    - Expansion dans les marchés B2B :
    - Éducation et formation :
    - Développement de nouvelles fonctionnalités :
    - Expansion géographique et localisation :
-   - e
+   - 
 7. Threath
    - Concurrence accrue :
    - Risque de saturation du marché :
    - Vulnérabilités en cybersécurité :
    - Fluctuation des réglementations :
-   - e
+   - évolution rapide des demandes des users :
 
 ## Semaine 3
 **Newsletter :**  
