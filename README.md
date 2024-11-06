@@ -182,6 +182,7 @@ plateforme numérique de design graphique (pas sûr j'ai pas vérif)
 2. Mettez les sources pour chaque réponses
 
 ## liens ++
+[**SWOT**](https://github.com/potatovitch/SAE-1.05-1.06/blob/main/S1.06/SWOT%20Canva.odt)
     
 [**Moodle**](https://moodle.univ-lille.fr/course/view.php?id=30388&sectionid=262716)  
 [**tuto basique markdown**](https://www.markdownguide.org/) _(pour écrire sur le readme.md)_  
