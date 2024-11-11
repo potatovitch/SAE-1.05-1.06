@@ -1,0 +1,360 @@
+/* Général */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: linear-gradient(
+    to right,
+    #f5f5f5,
+    #ffffff
+  ); /* Dégradé doux de blanc pour le fond */
+  color: #fff; /* Texte blanc */
+  line-height: 1.6;
+  padding-top: 70px; /* Espace pour le header */
+}
+
+/* Container principal */
+.container {
+  display: flex;
+  margin-top: 50px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Header */
+header {
+  background-color: #6a5acd; /* Violet Canva */
+  color: #fff;
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header .logo img {
+  width: 120px;
+}
+
+header .nav {
+  display: flex;
+  gap: 20px;
+}
+
+header .search-bar {
+  padding: 10px 20px;
+  border-radius: 25px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  background-color: #fff;
+}
+
+header .search-bar:focus {
+  border-color: #ff9ebc;
+  box-shadow: 0 0 5px rgba(255, 158, 188, 0.6);
+}
+
+header .btn-login,
+header .btn-signup {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 25px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+header .btn-login {
+  background-color: #fff;
+  color: #6a5acd;
+}
+
+header .btn-signup {
+  background-color: #6a5acd;
+  color: #fff;
+}
+
+header .btn-login:hover {
+  background-color: #ff9ebc;
+}
+
+header .btn-signup:hover {
+  background-color: #b070e0;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 200px;
+  background-color: #6a5acd;
+  color: #fff;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  box-shadow: 4px 0 6px rgba(0, 0, 0, 0.1);
+  padding-top: 100px;
+}
+
+.sidebar ul {
+  list-style: none;
+}
+
+.sidebar ul li {
+  padding: 12px 0;
+  font-size: 16px;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  transition: background 0.3s ease;
+}
+
+.sidebar ul li:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Main Content */
+.main-content {
+  flex-grow: 1;
+  margin-left: 270px; /* Espace pour la sidebar */
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+  color: #333;
+}
+
+.hero {
+  background: linear-gradient(45deg, #ff9ebc, #6a5acd); /* Dégradé sur fond */
+  padding: 50px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #fff;
+}
+
+.hero h2 {
+  font-size: 30px;
+  font-weight: bold;
+  background: linear-gradient(45deg, #ff9ebc, #6a5acd);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+/* Templates et Projets */
+.templates-section,
+.projects-section {
+  margin-bottom: 30px;
+}
+
+.templates,
+.projects {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.template,
+.project {
+  width: 22%;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.template h3,
+.project h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #6a5acd;
+}
+
+.template p,
+.project p {
+  padding: 15px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333;
+}
+
+.template:hover,
+.project:hover {
+  transform: translateY(-5px);
+}
+
+/* Page de Connexion */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to right, #6a5acd, #ff9ebc);
+}
+
+.login-box {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  width: 350px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.login-box h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #6a5acd;
+}
+
+.login-box input[type="text"],
+.login-box input[type="password"] {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.login-box input[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  background-color: #6a5acd;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.login-box input[type="submit"]:hover {
+  background-color: #ff9ebc;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #6a5acd;
+  color: #fff;
+  margin-top: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsivité */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    box-shadow: none;
+    margin-top: 100px;
+  }
+
+  .main-content {
+    margin-left: 0;
+    padding: 20px;
+  }
+
+  .templates,
+  .projects {
+    flex-direction: column;
+  }
+
+  .template,
+  .project {
+    width: 100%;
+  }
+
+  header .search-bar {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  header .nav {
+    gap: 10px;
+  }
+
+  header .logo img {
+    width: 100px;
+  }
+}
+
+/* Style général pour la barre de recherche */
+.search-bar {
+  width: 500px; /* Augmentez la largeur de la barre de recherche */
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  margin-left: 20px; /* Ajouter un petit espacement si nécessaire */
+  background-color: #fff;
+  transition: width 0.3s ease; /* Animation pour un effet fluide */
+}
+
+/* Ajuster la position de la barre de recherche et des boutons */
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.nav .search-bar {
+  flex-grow: 1; /* Permet à la barre de recherche d'occuper l'espace restant */
+}
+
+.nav .btn-login,
+.nav .btn-signup {
+  margin-left: 10px;
+}
+
+/* Style général pour la barre de recherche */
+.search-bar {
+  width: 500px; /* Augmentez la largeur de la barre de recherche */
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  margin-left: 20px; /* Ajouter un petit espacement si nécessaire */
+  background-color: #fff;
+  transition: width 0.3s ease; /* Animation pour un effet fluide */
+}
+
+/* Ajuster la position de la barre de recherche et des boutons */
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.nav .search-bar {
+  flex-grow: 1; /* Permet à la barre de recherche d'occuper l'espace restant */
+}
+
+.nav .btn-login,
+.nav .btn-signup {
+  margin-left: 10px;
+}
