@@ -61,7 +61,7 @@
    >
    > **sources :**  
    > [canva machine learning](https://www.canva.dev/blog/engineering/tag/machine-learning/)  
-   > [canva sécurité](https://www.canva.com/security/)  
+   > [canva sécurité + cdn](https://www.canva.com/security/)  
    > []()  
    > []()  
    > []()  
