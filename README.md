@@ -79,7 +79,22 @@
    > 4. Outils de collaboration et d'intégration  
    > 5. Réseau de partenaires stratégiques  
    > 6. Stratégie de marketing digital et contenu éducatif  
-   > 7. Présence internationale et localisation  
+   > 7. Présence internationale et localisation
+   >
+   > **sources :**  
+   > []()  
+   > []()  
+   > []()
+   > []()  
+   > []()  
+   > []()  
+   > []()  
+   > []()
+   > []()  
+   > []()  
+   > []()  
+   > []()  
+   > []()    
      
    &emsp;**_humaines :_**  
    > 1. Équipe de direction et fondateurs  
