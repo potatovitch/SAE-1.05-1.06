@@ -59,7 +59,7 @@
    >    - outils collaboratifs  
    >    - coordonner efficacement leurs activités  
    > **sources :** 
-   > []()  
+   > [canva machine learning](https://www.canva.dev/blog/engineering/tag/machine-learning/)  
    > []()  
    > []()  
    > []()  
