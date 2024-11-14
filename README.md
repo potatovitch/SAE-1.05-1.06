@@ -58,6 +58,7 @@
    > 5. Technologies collaboratives et outils de productivité  
    >    - outils collaboratifs  
    >    - coordonner efficacement leurs activités  
+   >
    > **sources :**  
    > [canva machine learning](https://www.canva.dev/blog/engineering/tag/machine-learning/)  
    > []()  
