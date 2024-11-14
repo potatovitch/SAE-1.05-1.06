@@ -83,7 +83,7 @@
    > 7. Présence internationale et localisation
    >
    > **sources :**  
-   > []()  
+   > [modèles freemiums](https://www.canva.com/fr_fr/tarification/)  
    > []()  
    > []()
    > []()  
