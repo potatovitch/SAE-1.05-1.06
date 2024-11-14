@@ -13,6 +13,7 @@
 **1. Type d'Organisation :**  
 
    > Société civile/Société commerciale/Autres types de sociétés  
+   > **source :** [LinkedIn](https://www.linkedin.com/company/canva?originalSubdomain=au)  
      
 **3. Finalité, But et Objectifs :**  
 
