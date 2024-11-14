@@ -12,7 +12,7 @@
 ### Tableau des Caractéristiques :
 **1. Type d'Organisation :**  
 
-   > Startup technologique / SaaS  
+   > Société civile/Société commerciale/Autres types de sociétés  
      
 **3. Finalité, But et Objectifs :**  
 
