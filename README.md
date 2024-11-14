@@ -63,20 +63,6 @@
    > [canva machine learning](https://www.canva.dev/blog/engineering/tag/machine-learning/)  
    > [canva sécurité + cdn](https://www.canva.com/security/)  
    > [canva teams](https://www.canva.com/fr_fr/for-teams/)  
-   > []()  
-   > []()  
-   > []()
-   > []()  
-   > []()  
-   > []()  
-   > []()  
-   > []()
-   > []()  
-   > []()  
-   > []()  
-   > []()  
-   > []()  
-
 
    > - matérielles  
    > 1. Équipements de travail pour les équipes
