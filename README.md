@@ -43,7 +43,7 @@
    >    - Canva for Education et Canva for Nonprofits  
    > 3. Ventes de ressources graphiques et de contenus premium  
    > 4. Partenariats stratégiques et intégrations 
-   > **source :**[LinkedIn](https://www.linkedin.com/pulse/canva-lhistoire-improbable-dune-startup-australienne-laurent-brouat?originalSubdomain=fr#:~:text=Elle%20gagne%20de%20l'argent,%2C%20Kimberly%2DClark%20et%20Zoom)
+   > **source :** [LinkedIn](https://www.linkedin.com/pulse/canva-lhistoire-improbable-dune-startup-australienne-laurent-brouat?originalSubdomain=fr#:~:text=Elle%20gagne%20de%20l'argent,%2C%20Kimberly%2DClark%20et%20Zoom)
 
    &emsp;**_matérielles et technologiques :_** 
    > - technologiques  
