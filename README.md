@@ -110,13 +110,8 @@
    > 4. Marketing et gestion de la communauté  
    >    - équipe de marketing  
    >    - équipe de gestion de la communauté  
-   > 5. Ventes et partenariats  
-   >    - écoles  
-   >    - entreprises  
-   >    - organisations à but non-lucratif  
    > 6. Support client  
    >    - SAV  
-   > 7. Recherche et développement (R&D)  
      
 **5. Nature de l'Activité :**  
 
