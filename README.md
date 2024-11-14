@@ -48,14 +48,7 @@
    &emsp;**_matérielles et technologiques :_** 
    > - technologiques  
    > 1. Logiciels de design et technologies de développement  
-   >    - technologies utilisé pour le front-end  
-   >      - html  
-   >      - JS  
-   >      - react  
-   >    - technologies utilisé pour le back-end  
-   >      - python  
-   >      - node.js  
-   >    - machine learning et d’intelligence artificielle  
+   >    - machine learning et IA
    > 2. Réseaux de livraison de contenu (CDN)  
    > 3. Bases de données et gestion de données
    >    - systèmes de bases de données relationnelles et non relationnelles    
@@ -65,6 +58,8 @@
    > 5. Technologies collaboratives et outils de productivité  
    >    - outils collaboratifs  
    >    - coordonner efficacement leurs activités  
+
+j'irai 
 Canva développe également ses propres outils de collaboration intégrés dans la plateforme   
 
    > - matérielles  
