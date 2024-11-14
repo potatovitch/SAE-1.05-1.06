@@ -26,7 +26,7 @@
    > - Faciliter l’accès au design pour le grand public  
    > - Fournir des outils de collaboration  
    > - Élargir l’utilisation des visuels dans la communication  
-   >
+   
    > **source :** [canva](https://www.canva.com/fr_fr/about/)
 
 **5. Forme Juridique :**  
