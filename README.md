@@ -50,8 +50,7 @@
    > 1. Logiciels de design et technologies de développement  
    >    - machine learning et IA
    > 2. Réseaux de livraison de contenu (CDN)  
-   > 3. Bases de données et gestion de données
-   >    - systèmes de bases de données relationnelles et non relationnelles    
+   > 3. Bases de données et gestion de donnée  
    > 4. Systèmes de sécurité et de protection des données  
    >    - protocoles de sécurité  
    >    - normes strictes de sécurité de l'information (RGPD)  
