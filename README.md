@@ -18,7 +18,7 @@
 
    > Finalité :  
    > - démocratiser le design graphique  
-   > **sources** [canva](https://www.canva.com/fr_fr/about/)  
+   > **source :** [canva](https://www.canva.com/fr_fr/about/)  
 
    > But :  
    > - lucratif  
