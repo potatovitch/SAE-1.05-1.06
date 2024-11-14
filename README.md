@@ -78,24 +78,18 @@
    >    - Canva for Enterprise  
    > 3. Bibliothèque de ressources graphiques premium  
    > 4. Outils de collaboration et d'intégration  
-   > 5. Réseau de partenaires stratégiques  
-   > 6. Stratégie de marketing digital et contenu éducatif  
+   > 5. Réseau de partenaires stratégiques   
    > 7. Présence internationale et localisation
    >
    > **sources :**  
    > [modèles freemiums](https://www.canva.com/fr_fr/tarification/)  
    > [canva for education](https://www.canva.com/education/)  
    > [canva for non profit](https://www.canva.com/canva-for-nonprofits/)
-   > []()  
-   > []()  
-   > []()  
-   > []()  
-   > []()
-   > []()  
-   > []()  
-   > []()  
-   > []()  
-   > []()    
+   > [biblothèque et éléments premium](https://www.canva.com/fr_fr/help/premium-elements/)  
+   > [ouitls de collaboration](https://www.canva.com/fr_fr/for-teams/team-collaboration-tools/)  
+   > [partenariats de canva](https://www.canva.com/fr_fr/help/canva-partnerships/)  
+   > [partenariat avec l'ESSEC et Rocket School](https://www.planetegrandesecoles.com/canva-essec-rocket-school)  
+  
      
    &emsp;**_humaines :_**  
    > 1. Équipe de direction et fondateurs  
@@ -117,7 +111,7 @@
 **5. Nature de l'Activité :**  
 
    > **tertiaire :**  
-plateforme numérique de design graphique (pas sûr j'ai pas vérif)  
+plateforme numérique de design graphique 
 
 **6. Secteur de l'Activité :**  
 
@@ -125,11 +119,8 @@ plateforme numérique de design graphique (pas sûr j'ai pas vérif)
  
 **7. Champs d'Action Géographique :** 
  
-   > le monde  
+   > le monde
 
-### Liste des Sources :  
-- [linkedin](https://www.linkedin.com/company/canva?originalSubdomain=au)
-- [wikipédia](https://fr.m.wikipedia.org/wiki/Canva)
 
 ## Semaine 2
 **SWOT :**
