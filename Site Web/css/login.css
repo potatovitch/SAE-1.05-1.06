@@ -4,8 +4,8 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 100vh;
-  background: linear-gradient(to right, #6a5acd, #ff9ebc);
+  border-radius: 10px;
+  background: linear-gradient(to right, var(--main-color), rgba(17, 223, 230, 0.726));
 }
 
 .login-box {
@@ -14,11 +14,11 @@
   border-radius: 10px;
   width: 350px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px;
 }
 
-.login-box h2 {
+.login-box h1 {
   text-align: center;
-  margin-bottom: 30px;
   color: #6a5acd;
 }
 
@@ -34,7 +34,7 @@
 }
 
 #continue-btn{
-    background-color: #6a5acd;
+    background-color: var(--main-color);
     color: #fff; 
 }
 

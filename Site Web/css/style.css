@@ -1,3 +1,13 @@
+:root{
+  --main-color: #8145c5;                   /* Violet Canva */
+  --secondary-color: rgb(17, 223, 230);    /* Bleu Canva */
+  --third-color: #a063e6;
+
+  /* colors
+    #6a5acd; violet
+  */
+}
+
 /* Général */
 * {
   margin: 0;
@@ -12,6 +22,7 @@ body {
     #f5f5f5,
     #ffffff
   ); /* Dégradé doux de blanc pour le fond */
+
   color: #fff; /* Texte blanc */
   line-height: 1.6;
   padding-top: 70px; /* Espace pour le header */
@@ -36,7 +47,7 @@ a:visited {
 
 /* Header */
 header {
-  background-color: #6a5acd; /* Violet Canva */
+  background-color: var(--main-color); 
   color: #fff;
   padding: 20px 30px;
   display: flex;
@@ -51,11 +62,15 @@ header {
 
 header .logo img {
   width: 120px;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 4px;
 }
 
-header .nav {
+header .header-div {
   display: flex;
   gap: 20px;
+  width: 100%;
 }
 
 header .search-bar {
@@ -65,6 +80,7 @@ header .search-bar {
   font-size: 16px;
   transition: all 0.3s ease;
   background-color: #fff;
+  width: 100%;
 }
 
 header .search-bar:focus {
@@ -76,34 +92,29 @@ header .btn-login,
 header .btn-signup {
   padding: 8px 16px;
   border: none;
-  border-radius: 25px;
+  border-radius: 12px;
   font-size: 14px;
   cursor: pointer;
   transition: all 0.3s ease;
-}
-
-header .btn-login {
-  background-color: #fff;
-  color: #6a5acd;
-}
-
-header .btn-signup {
-  background-color: #6a5acd;
   color: #fff;
+  background-color: var(--third-color);
 }
 
 header .btn-login:hover {
-  background-color: #ff9ebc;
+  border-radius: 25px;
+  background-color: #b070e0;
+  
 }
 
 header .btn-signup:hover {
+  border-radius: 25px;
   background-color: #b070e0;
 }
 
 /* Sidebar */
 .sidebar {
   width: 200px;
-  background-color: #6a5acd;
+  background-color: var(--main-color);
   color: #fff;
   padding: 20px;
   position: fixed;
@@ -207,7 +218,7 @@ header .btn-signup:hover {
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #6a5acd;
+  background-color: var(--main-color);
   color: #fff;
   margin-top: 30px;
   border-radius: 8px;
