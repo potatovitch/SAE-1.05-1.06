@@ -1,6 +1,6 @@
-:root{
-  --main-color: #8145c5;                   /* Violet Canva */
-  --secondary-color: rgb(21, 200, 206);    /* Bleu Canva */
+:root {
+  --main-color: #8145c5; /* Violet Canva */
+  --secondary-color: rgb(21, 200, 206); /* Bleu Canva */
   --third-color: #a063e6;
 
   /* colors
@@ -47,7 +47,7 @@ a:visited {
 
 /* Header */
 header {
-  background-color: var(--main-color); 
+  background-color: var(--main-color);
   color: #fff;
   padding: 20px 30px;
   display: flex;
@@ -78,14 +78,18 @@ header .search-bar {
   border-radius: 25px;
   border: 1px solid #ddd;
   font-size: 16px;
-  transition: all 0.3s ease;
+  transition: all 0.1s ease;
   background-color: #fff;
   width: 100%;
 }
 
 header .search-bar:focus {
-  border-color: var(--third-color);
-  box-shadow: 0 0 5px rgba(255, 158, 188, 0.6);
+  accent-color: var(--third-color);
+}
+
+header .search-bar:hover {
+  accent-color: var(--main-color);
+  border-color: var(--main-color);
 }
 
 header .btn-login,
@@ -198,7 +202,11 @@ header .btn-signup:hover {
 }
 
 .p-div {
-  background: linear-gradient(105deg, var(--main-color), var(--secondary-color)); /* Dégradé sur fond */
+  background: linear-gradient(
+    105deg,
+    var(--main-color),
+    var(--secondary-color)
+  ); /* Dégradé sur fond */
   padding: 50px;
   border-radius: 8px;
   margin-bottom: 30px;
@@ -209,7 +217,11 @@ header .btn-signup:hover {
 .p-div h2 {
   font-size: 30px;
   font-weight: bold;
-  background: linear-gradient(45deg, #ff9ebc, #6a5acd);
+  background: linear-gradient(
+    105deg,
+    var(--main-color),
+    var(--secondary-color)
+  );
   color: transparent;
 }
 

@@ -33,10 +33,18 @@
   font-size: 16px;
 
 }
+
+#email:focus,
+#mdp:focus,
+#continue-btn:focus {
+  accent-color: var(--third-color);
+}
+
 #email:hover,
 #mdp:hover,
 #continue-btn:hover {
-  border-color: var(--third-color);
+  accent-color: var(--main-color);
+  border-color: var(--main-color);
 }
 
 #continue-btn{
