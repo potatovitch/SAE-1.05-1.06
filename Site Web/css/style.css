@@ -1,6 +1,6 @@
-:root {
-  --main-color: #8145c5; /* Violet Canva */
-  --secondary-color: rgb(21, 200, 206); /* Bleu Canva */
+:root{
+  --main-color: #8145c5;                   /* Violet Canva */
+  --secondary-color: rgb(17, 223, 230);    /* Bleu Canva */
   --third-color: #a063e6;
 
   /* colors
@@ -37,17 +37,14 @@ a:visited {
 /* Container principal */
 .container {
   display: flex;
-  margin-top: 50px;
+  margin: 50px 10px 0px 0px;
   flex-wrap: wrap;
   justify-content: space-between;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* Header */
 header {
-  background-color: var(--main-color);
+  background-color: var(--main-color); 
   color: #fff;
   padding: 20px 30px;
   display: flex;
@@ -78,18 +75,14 @@ header .search-bar {
   border-radius: 25px;
   border: 1px solid #ddd;
   font-size: 16px;
-  transition: all 0.1s ease;
+  transition: all 0.3s ease;
   background-color: #fff;
   width: 100%;
 }
 
 header .search-bar:focus {
-  accent-color: var(--third-color);
-}
-
-header .search-bar:hover {
-  accent-color: var(--main-color);
-  border-color: var(--main-color);
+  border-color: #ff9ebc;
+  box-shadow: 0 0 5px rgba(255, 158, 188, 0.6);
 }
 
 header .btn-login,
@@ -107,6 +100,7 @@ header .btn-signup {
 header .btn-login:hover {
   border-radius: 25px;
   background-color: #b070e0;
+  
 }
 
 header .btn-signup:hover {
@@ -117,8 +111,7 @@ header .btn-signup:hover {
 /* Sidebar */
 .sidebar {
   width: 200px;
-  background-color: var(--main-color);
-  color: #fff;
+  background: var(--third-color);
   padding: 20px;
   position: fixed;
   top: 0;
@@ -147,8 +140,8 @@ header .btn-signup:hover {
 /* Main Content */
 .main-content {
   flex-grow: 1;
-  margin-left: 270px; /* Espace pour la sidebar */
-  padding: 30px;
+  margin-left: 210px; /* Espace pour la sidebar */
+  padding: 20px;
   background-color: #fff;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
@@ -202,11 +195,7 @@ header .btn-signup:hover {
 }
 
 .p-div {
-  background: linear-gradient(
-    105deg,
-    var(--main-color),
-    var(--secondary-color)
-  ); /* Dégradé sur fond */
+  background: linear-gradient(45deg, #ff9ebc, #6a5acd); /* Dégradé sur fond */
   padding: 50px;
   border-radius: 8px;
   margin-bottom: 30px;
@@ -217,11 +206,7 @@ header .btn-signup:hover {
 .p-div h2 {
   font-size: 30px;
   font-weight: bold;
-  background: linear-gradient(
-    105deg,
-    var(--main-color),
-    var(--secondary-color)
-  );
+  background: linear-gradient(45deg, #ff9ebc, #6a5acd);
   color: transparent;
 }
 
@@ -236,48 +221,7 @@ footer {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Responsivité */
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
 
-  .sidebar {
-    width: 100%;
-    height: auto;
-    position: relative;
-    box-shadow: none;
-    margin-top: 100px;
-  }
-
-  .main-content {
-    margin-left: 0;
-    padding: 20px;
-  }
-
-  header .search-bar {
-    width: 100%;
-    margin-top: 10px;
-  }
-
-  header .nav {
-    gap: 10px;
-  }
-
-  header .logo img {
-    width: 100px;
-  }
-
-  .templates,
-  .projects {
-    flex-direction: column;
-  }
-
-  .template,
-  .project {
-    width: 100%;
-  }
-}
 
 /* Style général pour la barre de recherche */
 .search-bar {
