@@ -1,77 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="../css/style.css" />
-    <link rel="stylesheet" href="../css/login.css" />
-    <link rel="icon" href="../images/icon.png" type="image/png" />
-    <title>Login</title>
-  </head>
-  <body>
-    <header>
-      <div class="logo">
-        <a href="https://www.canva.com/">
-          <img
-          src="../images/8439b51bb7a19f6e65ce1064bc37c197.svg"
-          alt="Logo Canva"
-          />
-        </a>
-      </div>
 
-      <div class="header-div">
-        <input
-          type="text"
-          class="search-bar"
-          placeholder="Rechercher des modèles, éléments..."
-        />
-        <button class="btn-login">Se connecter</button>
-        <button class="btn-signup">Créer un compte</button>
-      </div>
-    </header>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <link rel="stylesheet" href="../css/login.css" />
+  <link rel="icon" href="../images/icon.png" type="image/png" />
+  <title>Login</title>
+</head>
 
-    <!-- Conteneur principal pour Sidebar et Content -->
-    <div class="container">
-      <!-- Barre latérale -->
-      <div class="sidebar">
-        <ul>
-            <!-- mettre des a au lieu des spans -->
-          <li><span class="icon-home"></span> Accueil</li>
-          <li><span class="icon-templates"></span> Eco Mobilite</li>
-          <li><span class="icon-projects"></span> Covoiturage</li>
-          <li><span class="icon-settings"></span> Location</li>
-          <li><span class="icon-photos"></span> Velo</li>
-          <li><span class="icon-elements"></span> Trotinette</li>
-          <li><span class="icon-all"></span> Info</li>
-        </ul>
-      </div>
+<body>
+  <header>
+    <div class="logo">
+      <a href="https://www.canva.com/">
+        <img src="../images/8439b51bb7a19f6e65ce1064bc37c197.svg" alt="Logo Canva" />
+      </a>
+    </div>
 
-      <!-- Contenu principal -->
-      <div class="main-content">
+    <div class="header-div">
+      <input type="text" class="search-bar" placeholder="Rechercher des modèles, éléments..." />
+      <button class="btn-login">Se connecter</button>
+      <button class="btn-signup">Créer un compte</button>
+    </div>
+  </header>
 
-        
-        <div class="login-container">
-          <div class="login-box">
-            <h1>
-              Se Connecter
-            </h1>
-          </div>
+  <!-- Conteneur principal pour Sidebar et Content -->
+  <div class="container">
+    <!-- Barre latérale -->
+    <div class="sidebar">
+      <ul>
+        <li><a class="icon-home" href="../index.html">Accueil</a></li>
+        <li><a class="icon-templates" href="../sources/ecomobilite.html">Eco Mobilite</a></li>
+        <li><a class="icon-projects" href="../sources/covoiturage.html">Covoiturage</a></li>
+        <li><a class="icon-settings" href="../sources/location.html">Location</a></li>
+        <li><a class="icon-photos" href="../sources/velo.html">Velo</a></li>
+        <li><a class="icon-elements" href="../sources/trotinette.html">Trotinette</a></li>
+        <li><a class="icon-all" href="../sources/info.html">Info</a></li>
+      </ul>
+    </div>
 
-          <div class="login-box">
-            <input id="email" type="email" placeholder="email">
-            <input id="mdp" type="password" placeholder="mot de passe"></input>
-            <!-- changer la redirection -->
-            <button id="continue-btn"><a href="#">continue</a></button>
-        
-          </div>
+    <!-- Contenu principal -->
+    <div class="main-content">
+
+
+      <div class="login-container">
+        <div class="login-box">
+          <h1>
+            Se Connecter
+          </h1>
         </div>
 
-        <!-- Footer -->
-        <footer>
-          <p>&copy; 2024 Clone Canva. Tous droits réservés.</p>
-        </footer>
+        <div class="login-box">
+          <input id="email" type="email" placeholder="email">
+          <input id="mdp" type="password" placeholder="mot de passe"></input>
+          <!-- changer la redirection -->
+          <button id="continue-btn"><a href="#">continue</a></button>
+
+        </div>
       </div>
 
+      <!-- Footer -->
+      <footer>
+        <p>&copy; 2024 Clone Canva. Tous droits réservés.</p>
+      </footer>
     </div>
-  </body>
+
+  </div>
+</body>
+
 </html>
