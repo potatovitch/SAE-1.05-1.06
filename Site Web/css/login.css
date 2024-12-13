@@ -31,6 +31,12 @@
   border: 1px solid #ddd;
   border-radius: 5px;
   font-size: 16px;
+
+}
+#email:hover,
+#mdp:hover,
+#continue-btn:hover {
+  border-color: var(--third-color);
 }
 
 #continue-btn{
@@ -38,18 +44,4 @@
     color: #fff; 
 }
 
-.login-box input[type="submit"] {
-  width: 100%;
-  padding: 12px;
-  background-color: #6a5acd;
-  border: none;
-  color: white;
-  font-size: 16px;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
 
-.login-box input[type="submit"]:hover {
-  background-color: #ff9ebc;
-}

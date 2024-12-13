@@ -1,6 +1,6 @@
 :root{
   --main-color: #8145c5;                   /* Violet Canva */
-  --secondary-color: rgb(17, 223, 230);    /* Bleu Canva */
+  --secondary-color: rgb(21, 200, 206);    /* Bleu Canva */
   --third-color: #a063e6;
 
   /* colors
@@ -84,7 +84,7 @@ header .search-bar {
 }
 
 header .search-bar:focus {
-  border-color: #ff9ebc;
+  border-color: var(--third-color);
   box-shadow: 0 0 5px rgba(255, 158, 188, 0.6);
 }
 
@@ -103,7 +103,6 @@ header .btn-signup {
 header .btn-login:hover {
   border-radius: 25px;
   background-color: #b070e0;
-  
 }
 
 header .btn-signup:hover {
@@ -199,7 +198,7 @@ header .btn-signup:hover {
 }
 
 .p-div {
-  background: linear-gradient(45deg, #ff9ebc, #6a5acd); /* Dégradé sur fond */
+  background: linear-gradient(105deg, var(--main-color), var(--secondary-color)); /* Dégradé sur fond */
   padding: 50px;
   border-radius: 8px;
   margin-bottom: 30px;
