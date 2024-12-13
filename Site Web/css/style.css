@@ -17,6 +17,12 @@ body {
   padding-top: 70px; /* Espace pour le header */
 }
 
+a,
+a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
 /* Container principal */
 .container {
   display: flex;
@@ -135,23 +141,6 @@ header .btn-signup:hover {
   color: #333;
 }
 
-.hero {
-  background: linear-gradient(45deg, #ff9ebc, #6a5acd); /* Dégradé sur fond */
-  padding: 50px;
-  border-radius: 8px;
-  margin-bottom: 30px;
-  text-align: center;
-  color: #fff;
-}
-
-.hero h2 {
-  font-size: 30px;
-  font-weight: bold;
-  background: linear-gradient(45deg, #ff9ebc, #6a5acd);
-  -webkit-background-clip: text;
-  color: transparent;
-}
-
 /* Templates et Projets */
 .templates-section,
 .projects-section {
@@ -198,57 +187,24 @@ header .btn-signup:hover {
   transform: translateY(-5px);
 }
 
-/* Page de Connexion */
-.login-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background: linear-gradient(to right, #6a5acd, #ff9ebc);
-}
-
-.login-box {
-  background-color: #fff;
-  padding: 40px;
-  border-radius: 10px;
-  width: 350px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.login-box h2 {
-  text-align: center;
+.p-div {
+  background: linear-gradient(45deg, #ff9ebc, #6a5acd); /* Dégradé sur fond */
+  padding: 50px;
+  border-radius: 8px;
   margin-bottom: 30px;
-  color: #6a5acd;
+  text-align: center;
+  color: #fff;
 }
 
-.login-box input[type="text"],
-.login-box input[type="password"] {
-  width: 100%;
-  padding: 12px;
-  margin: 10px 0;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  font-size: 16px;
-}
-
-.login-box input[type="submit"] {
-  width: 100%;
-  padding: 12px;
-  background-color: #6a5acd;
-  border: none;
-  color: white;
-  font-size: 16px;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.login-box input[type="submit"]:hover {
-  background-color: #ff9ebc;
+.p-div h2 {
+  font-size: 30px;
+  font-weight: bold;
+  background: linear-gradient(45deg, #ff9ebc, #6a5acd);
+  color: transparent;
 }
 
 /* Footer */
-.footer {
+footer {
   text-align: center;
   padding: 20px;
   background-color: #6a5acd;
@@ -277,16 +233,6 @@ header .btn-signup:hover {
     padding: 20px;
   }
 
-  .templates,
-  .projects {
-    flex-direction: column;
-  }
-
-  .template,
-  .project {
-    width: 100%;
-  }
-
   header .search-bar {
     width: 100%;
     margin-top: 10px;
@@ -298,6 +244,16 @@ header .btn-signup:hover {
 
   header .logo img {
     width: 100px;
+  }
+
+  .templates,
+  .projects {
+    flex-direction: column;
+  }
+
+  .template,
+  .project {
+    width: 100%;
   }
 }
 

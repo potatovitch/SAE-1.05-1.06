@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/login.css" />
+    <link rel="icon" href="../images/icon.png" type="image/png" />
+    <title>Login</title>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <img
+          src="../images/8439b51bb7a19f6e65ce1064bc37c197.svg"
+          alt="Logo Canva"
+        />
+      </div>
+      <div class="nav">
+        <input
+          type="text"
+          class="search-bar"
+          placeholder="Rechercher des modèles, éléments..."
+        />
+        <button class="btn-login">Se connecter</button>
+        <button class="btn-signup">Créer un compte</button>
+      </div>
+    </header>
+
+    <!-- Conteneur principal pour Sidebar et Content -->
+    <div class="container">
+      <!-- Barre latérale -->
+      <div class="sidebar">
+        <ul>
+            <!-- mettre des a au lieu des spans -->
+          <li><span class="icon-home"></span> Accueil</li>
+          <li><span class="icon-templates"></span> Eco Mobilite</li>
+          <li><span class="icon-projects"></span> Covoiturage</li>
+          <li><span class="icon-settings"></span> Location</li>
+          <li><span class="icon-photos"></span> Velo</li>
+          <li><span class="icon-elements"></span> Trotinette</li>
+          <li><span class="icon-all"></span> Info</li>
+        </ul>
+      </div>
+
+      <!-- Contenu principal -->
+      <div class="main-content">
+        <div class="login-container">
+
+          <div class="login-box">
+            <input id="email" type="email" placeholder="email">
+            <input id="mdp" type="password" placeholder="mot de passe"></input>
+            <!-- changer la redirection -->
+            <button id="continue-btn"><a href="#">continue</a></button>
+        
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </body>
+</html>
