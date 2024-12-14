@@ -5,6 +5,7 @@
   width: 350px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   margin: 20px;
+  
 }
 
 .container-col h2,
@@ -21,13 +22,15 @@ hr {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  padding-bottom: 50px;
 }
 
 .container-row img{
-    height: 350px;
-    width: auto;
+    height: auto;
+    width: 50%;
 }
 
 .container-size{
     padding-inline: 10%;
 }
+
