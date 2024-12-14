@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <link rel="stylesheet" href="../css/creneau.css" />
+  <link rel="icon" href="../images/icon.png" type="image/png" />
+  <title>Register</title>
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <a href="https://www.canva.com/">
+        <img src="../images/logo.svg" alt="Logo Canva" />
+      </a>
+    </div>
+
+    <div class="header-div">
+      <!--<form action="./sources/login.html" method="get" style="display: none;" onsubmit="return validateInput()"> -->
+      <input type="text" class="search-bar" placeholder="Rechercher des creneau, vehicule..." required>
+      <!--<button type="submit" style="display: none;">Rechercher</button> <!-- Bouton invisible -->
+      </form>
+
+      <a href="./login.html"><button class="btn-login">Se connecter</button></a>
+      <a href="./register.html"><button class="btn-signup">Créer un compte</button></a>
+    </div>
+
+  </header>
+  <main>
+    <!-- Conteneur principal pour Sidebar et Content -->
+    <div class="container">
+      <!-- Barre latérale -->
+      <div class="container">
+        <!-- Barre latérale -->
+        <div class="sidebar">
+          <ul>
+            <a href="../index.html">
+              <li>Accueil</li>
+            </a>
+            <a href="./covoiturage.html">
+              <li>Covoiturage</li>
+            </a>
+            <a href="./creneau.html">
+              <li>Creneau Covoiturage</li>
+            </a>
+            <a href="./location.html">
+              <li>Location EcoMobilité</li>
+            </a>
+            <a href="./about.html">
+              <li>Info</li>
+            </a>
+          </ul>
+        </div>
+
+        <!-- Contenu principal -->
+        <div class="main-content">
+          <div class="container-size">
+            <div class="container-row">
+              <h1>Formulaire d'inscription</h1>
+            </div>
+            <div class="formulaire">
+              <form>
+                <h3>Type de Vehicule</h3>
+                <label>
+                  <input class="tick" type="checkbox" checked> Electrique<br>
+                  <input class="tick" type="checkbox"> Automatique<br>
+                </label><br>
+                <h3>Paiement</h3>
+                <label>
+                  <input class="tick" type="radio"> Espece<br>
+                  <input class="tick" type="radio"> Carte<br>
+                  <input class="tick" type="radio" checked> Deduction de Salaire<br>
+                </label><br>
+              </form>
+              <form>
+                <label for="nom">Nom</label>
+                <input class="info" type="text">
+
+                <label for="prenom">Prenom :</label>
+                <input class="info" type="text">
+
+                <label for="adress">Adresse</label>
+                <input class="info" type="text">
+
+                <label for="numero">Téléphone :</label>
+                <input class="info" type="text" placeholder="Ex : 06 12 34 56 78" maxlength="10">
+
+
+              </form>
+              <form>
+                <label >Modèles de vehicule</label>
+                <input class="info" type="text" placeholder="vehicule">
+
+                <label >Description</label>
+                <input class="info" type="text" placeholder="Information ...">
+
+                <label >Nombre de place</label>
+                <input class="info" type="text" placeholder="1, 2, 8...">
+
+                <label >Empreintre carbone</label>
+                <input class="info" type="text" placeholder="faible, forte, ..." maxlength="10">
+              </form>
+
+            </div>
+            <br>
+            <input class="valide" type="submit" value="Ajouter">
+          </div>
+        </div>
+      </div>
+  </main>
+  <footer>
+    <p>&copy; 2024 Clone Canva. Tous droits réservés.</p>
+  </footer>
+</body>
+
+</html>
