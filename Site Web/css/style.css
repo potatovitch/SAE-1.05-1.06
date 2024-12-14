@@ -8,11 +8,6 @@
   */
 }
 
-li{
-  padding: 0;
-  margin: 0;
-}
-
 /* Général */
 * {
   margin: 0;
@@ -37,20 +32,10 @@ a,
 a:visited {
   color: #fff;
   text-decoration: none;
-  height: 100%;
-  width: 100%;
-  align-items: center;
-}
-
-.sidebar a{
-  display: flex;
-  height: 100%;
-  width: 100%;
 }
 
 /* Container principal */
 .container {
-  display: flex;
   margin: 50px 10px 0px 0px;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -72,10 +57,10 @@ header {
 }
 
 header .logo img {
-  width: 120px;
+  width: 100px;
   background-color: #fff;
-  border-radius: 8px;
-  padding: 4px;
+  border-radius: 20px;
+  padding: 8px;
 }
 
 header .header-div {
@@ -86,12 +71,17 @@ header .header-div {
 
 header .search-bar {
   padding: 10px 20px;
-  border-radius: 25px;
+  border-radius: 12px;
   border: 1px solid #ddd;
   font-size: 16px;
   transition: all 0.3s ease;
   background-color: #fff;
   width: 100%;
+  background-image: url("../images/loupe.svg"); /* Chemin vers l'icône */
+  background-size: 24px 24px; /* Taille ajustée de l'image */
+  background-repeat: no-repeat;
+  background-position: 10px center; /* Position plus précise */
+  padding-left: 44px; /* Espace suffisant pour ne pas chevaucher l'icône */
 }
 
 header .search-bar:focus {
@@ -159,6 +149,7 @@ header .btn-signup:hover {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
   color: #333;
+  margin-bottom: 10px;
 }
 
 /* Templates et Projets */
@@ -170,45 +161,76 @@ header .btn-signup:hover {
 .templates,
 .projects {
   display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+}
+.template img,
+.projecs img {
+  border-radius: 12px;
 }
 
 .template,
 .project {
-  width: 22%;
+  width: 26%;
   background-color: #fff;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 8px 8px 8px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  transition: transform 0.3s ease;
+  transition: 0.3s ease;
   text-align: center;
-  margin-bottom: 20px;
-  padding: 20px;
+  margin: 5px;
+  padding: 0px;
 }
 
 .template h3,
 .project h3 {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
   color: #6a5acd;
 }
 
 .template p,
 .project p {
-  padding: 15px;
-  font-size: 16px;
-  font-weight: 400;
+  padding: 0px;
+  font-size: 14px;
+  font-weight: 700;
   color: #333;
+}
+
+.templates-section h2,
+.projects-section h2 {
+  font-size: 24px;
+  font-weight: bolder;
+  padding: 10px;
+  margin: 10px;
+}
+
+.templates-section p,
+.projects-section p {
+  margin: 15px;
+  margin-bottom: 25px;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .template:hover,
 .project:hover {
-  transform: translateY(-5px);
+  background-color: #decdff;
+  transform: translateY(-15px);
 }
-
+.p-div P{
+  text-align: justify;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bolder;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Décalage horizontal, vertical, flou, couleur */
+}
 .p-div {
-  background: linear-gradient(45deg, #ff9ebc, #6a5acd); /* Dégradé sur fond */
+  background: linear-gradient(
+    to right,
+    #00a3e0,
+    #005f7a
+  ); /* Dégradé sur fond */
   padding: 50px;
   border-radius: 8px;
   margin-bottom: 30px;
@@ -217,19 +239,22 @@ header .btn-signup:hover {
 }
 
 .p-div h2 {
-  font-size: 30px;
+  font-size: 33;
   font-weight: bold;
   background: linear-gradient(45deg, #ff9ebc, #6a5acd);
-  color: transparent;
+  text-shadow: 8px 8px 12px rgba(0, 0, 0, 0.5);
 }
 
 /* Footer */
 footer {
+  flex-grow: 1;
+  margin-left: 210px; /* Espace pour la sidebar */
+  margin-right: 10px;
   text-align: center;
   padding: 20px;
   background-color: var(--main-color);
   color: #fff;
-  margin-top: 30px;
+  margin-bottom: 10px;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -290,4 +315,11 @@ footer {
 .nav .btn-login,
 .nav .btn-signup {
   margin-left: 10px;
+}
+
+.article {
+  text-align: justify;
+  font-size: xx-small; /* Taille de texte plus petite (13px) */
+  line-height: 1.2; /* Espacement entre les lignes de texte pour améliorer la lisibilité */
+  color: #333; /* Couleur du texte */
 }
