@@ -12,6 +12,7 @@ td {
   padding: 12px 15px;
   border: 1px solid #ddd;
   background-color: #f9f9f9;
+  
 }
 
 th {
@@ -40,4 +41,11 @@ td:last-child {
 tr:hover td {
   background-color: #dcdcdc; /* Couleur survolée */
   transition: background-color 0.3s ease;
+}
+
+tr {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-bottom: 10px;
 }
