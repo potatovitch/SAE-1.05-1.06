@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <link rel="stylesheet" href="../css/login.css" />
+  <link rel="icon" href="../images/icon.png" type="image/png" />
+  <title>Login</title>
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <a href="https://www.canva.com/">
+        <img src="../images/logo.svg" alt="Logo Canva" />
+      </a>
+    </div>
+
+    <div class="header-div">
+      <input type="text" class="search-bar" placeholder="Rechercher des modèles, éléments..." />
+      <a href="./login.html"><button class="btn-login">Se connecter</button></a>
+      <a href="./register.html"><button class="btn-signup">créer un compte</button></a>
+    </div>
+  </header>
+  <main>
+    <!-- Conteneur principal pour Sidebar et Content -->
+    <div class="container">
+      <!-- Barre latérale -->
+      <div class="sidebar">
+        <ul>
+          <a href="../index.html">
+            <li>Accueil</li>
+          </a>
+          <a href="./covoiturage.html">
+            <li>Covoiturage</li>
+          </a>
+          <a href="./creneau.html">
+            <li>Creneau Covoiturage</li>
+          </a>
+          <a href="./location.html">
+            <li>Location EcoMobilité</li>
+          </a>
+          <a href="./about.html">
+            <li>Info</li>
+          </a>
+        </ul>
+      </div>
+
+      <!-- Contenu principal -->
+      <div class="main-content">
+
+        <div class="login-container">
+          <div class="login-box">
+            <h1>
+              Se Connecter
+            </h1>
+          </div>
+
+          <div class="login-box">
+            <input id="email" type="email" placeholder="email@canva.au">
+            <input id="mdp" type="password" placeholder="mot de passe"></input>
+            <!-- changer la redirection -->
+            <button id="continue-btn"><a href="#">se connecter</a></button>
+
+          </div>
+        </div>
+
+        <!-- Footer -->
+
+      </div>
+
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2024 Clone Canva. Tous droits réservés.</p>
+  </footer>
+</body>
+
+</html>
