@@ -16,110 +16,143 @@
   <header>
     <div class="logo">
       <a href="https://www.canva.com/">
-        <img src="./images/8439b51bb7a19f6e65ce1064bc37c197.svg" alt="Logo Canva" />
+        <img src="./images/logo.svg" alt="Logo Canva" />
       </a>
     </div>
 
     <div class="header-div">
-      <input type="text" class="search-bar" placeholder="Rechercher des modèles, éléments..." />
-      <button class="btn-login"><a href="./sources/login.html">Se connecter</a></button>
-      <button class="btn-signup"><a href="./sources/register.html">créer un compte</a></button>
+      <!--<form action="./sources/login.html" method="get" style="display: none;" onsubmit="return validateInput()"> -->
+      <input type="text" class="search-bar" placeholder="Rechercher des creneau, vehicule..." required>
+      <!--<button type="submit" style="display: none;">Rechercher</button> <!-- Bouton invisible -->
+      </form>
+
+      <a href="./sources/login.html"><button class="btn-login">Se connecter</button></a>
+      <a href="./sources/register.html"><button class="btn-signup">Créer un compte</button></a>
     </div>
+
   </header>
-
-  <!-- Conteneur principal pour Sidebar et Content -->
-  <div class="container">
-    <!-- Barre latérale -->
-    <div class="sidebar">
-      <ul>
-        <li><a class="icon-home" href="#">Accueil</a></li>
-        <li><a class="icon-templates" href="./sources/ecomobilite.html">Eco Mobilite</a</li>
-        <li><a class="icon-projects" href="./sources/covoiturage.html">Covoiturage</a></li>
-        <li><a class="icon-settings" href="./sources/location.html">Location</a></li>
-        <li><a class="icon-photos" href="./sources/velo.html">Velo</a></li>
-        <li><a class="icon-elements" href="./sources/trotinette.html">Trotinette</a></li>
-        <li><a class="icon-all" href="./sources/about.html">Info</a></li>
-      </ul>
-    </div>
-
-    <!-- Contenu principal -->
-    <div class="main-content">
-      <section class="p-div">
-        <h1>Explorez la Créativité à son Apogée</h1>
-        <p>
-          Des outils puissants pour libérer votre imagination. Créez des
-          designs incroyables en quelques clics. Notre plateforme vous permet
-          de concevoir des projets de qualité professionnelle, que vous soyez
-          designer ou débutant. Découvrez des modèles personnalisables, des
-          outils intuitifs et une bibliothèque riche pour transformer vos
-          idées en réalité.
-        </p>
-      </section>
-
-      <!-- Modèles populaires -->
-      <div class="templates-section">
-        <h2>Modèles Populaires</h2>
-        <p>
-          Découvrez nos modèles créatifs pour tous vos projets : des cartes de
-          vœux aux présentations professionnelles, chaque modèle est conçu
-          pour vous aider à briller.
-        </p>
-        <div class="templates">
-          <div class="template">
-            <img src="https://via.placeholder.com/300x200?text=Oasis" alt="Oasis" />
-            <p>Oasis</p>
-          </div>
-          <div class="template">
-            <img src="https://via.placeholder.com/300x200?text=Nimbus" alt="Nimbus" />
-            <p>Nimbus</p>
-          </div>
-          <div class="template">
-            <img src="https://via.placeholder.com/300x200?text=Celeste" alt="Celeste" />
-            <p>Celeste</p>
-          </div>
-          <div class="template">
-            <img src="https://via.placeholder.com/300x200?text=Aether" alt="Aether" />
-            <p>Aether</p>
-          </div>
-        </div>
+  <main>
+    <!-- Conteneur principal pour Sidebar et Content -->
+    <div class="container">
+      <!-- Barre latérale -->
+      <div class="sidebar">
+        <ul>
+          <a href="#">
+            <li>Accueil</li>
+          </a>
+          <a href="./sources/covoiturage.html">
+            <li>Covoiturage</li>
+          </a>
+          <a href="./sources/creneau.html">
+            <li>Creneau Covoiturage</li>
+          </a>
+          <a href="./sources/location.html">
+            <li>Location EcoMobilité</li>
+          </a>
+          <a href="./sources/about.html">
+            <li>Info</li>
+          </a>
+        </ul>
       </div>
 
-      <!-- Projets -->
-      <div class="projects-section">
-        <h2>Vos Projets</h2>
-        <p>
-          Accédez facilement à vos projets passés ou commencez de nouveaux
-          designs. Canva vous offre un espace de travail collaboratif, parfait
-          pour créer et partager vos projets en toute simplicité.
-        </p>
-        <div class="projects">
-          <div class="project">
-            <img src="https://via.placeholder.com/300x200?text=Zenith" alt="Zenith" />
-            <p>Zenith</p>
-          </div>
-          <div class="project">
-            <img src="https://via.placeholder.com/300x200?text=Arcadia" alt="Arcadia" />
-            <p>Arcadia</p>
-          </div>
-          <div class="project">
-            <img src="https://via.placeholder.com/300x200?text=Horizon" alt="Horizon" />
-            <p>Horizon</p>
-          </div>
-          <div class="project">
-            <img src="https://via.placeholder.com/300x200?text=Eclipse" alt="Eclipse" />
-            <p>Eclipse</p>
+      <!-- Contenu principal -->
+      <div class="main-content">
+        <section class="p-div">
+          <h1> L’importance de l’écomobilité et la responsabilité de l’entreprise</h1>
+          <p>
+            L’écomobilité joue un rôle crucial dans la préservation de l’environnement et le soutien à des
+            pratiques de mobilité durable. Les gestes individuels, comme l’utilisation de vélos, de
+            trottinettes, ou le covoiturage, contribuent à réduire notre empreinte carbone et à minimiser la
+            pollution. En tant qu’entreprise, notre responsabilité s’étend au-delà de nos bureaux. Nous nous
+            engageons à promouvoir des solutions de mobilité respectueuses de l’environnement pour nos employés
+            et notre communauté, en offrant des initiatives telles que la location de trottinettes, des services
+            de covoiturage et la mise en place de bus. Ces actions concrètes montrent notre engagement envers un
+            avenir plus vert et durable. Ensemble, nous pouvons faire la différence pour notre planète.
+          </p>
+        </section>
+
+        <!-- Modèles populaires -->
+        <div class="templates-section">
+          <h2>Actualité de l'entreprise</h2>
+          <p>
+            Découvrez l’actualité de Canva à travers des articles qui mettent en avant les initiatives et succès récents
+            de l’entreprise. Ces articles offrent un aperçu de l’engagement de Canva envers ses employés et
+            l’innovation.
+            Plongez-vous dans les témoignages inspirants et les perspectives des leaders qui façonnent l’avenir de
+            Canva.
+          </p>
+          <div class="templates">
+            <div class="template">
+              <img src="./images/canva.png" alt="canva" height="310" />
+              <p class="article">L’évolution et la créativité sont au cœur du succès de Canva. L’entreprise offre une
+                plateforme de design intuitive et évolutive.
+              </p>
+            </div>
+            <div class="template">
+              <img src="./images/velo.png" alt="velo" height="310" />
+              <p class="article">Canva encourage ses employés à utiliser des vélos et des trottinettes pour se rendre au
+                travail, réduisant ainsi l’empreinte carbone de l’entreprise.</p>
+            </div>
+            <div class="template">
+              <img src="./images/building.png" alt="building" height="310" />
+              <p class="article">Canva continue de croître avec l’acquisition d’un nouveau “skyscraper” pour accueillir
+                davantage d’employés et d’espace de travail créatif..</p>
+            </div>
+            <div class="template">
+              <img src="./images/graphique.png" alt="graphique" height="310" />
+              <p class="article">Canva a récemment vu son chiffre d'affaires exploser et investit désormais dans des
+                associations pour la nature.</p>
+            </div>
           </div>
         </div>
+
+        <!-- Projets -->
+        <div class="projects-section">
+          <h2>La nature notre responsabilité</h2>
+          <p>
+            Rejoignez le mouvement éco-responsable ! Profitez des solutions d’écomobilité mises à votre disposition pour
+            des déplacements durables et efficaces. 🌿
+          <div class="projects">
+            <div class="project">
+              <img src="./images/bus.png" alt="bus" height="310" />
+              <p class="article">Canva propose désormais un service de bus pour faciliter les trajets de ses employés.
+                Cette initiative de
+                mobilité durable permet de réduire l’empreinte carbone et de rendre les déplacements plus pratiques et
+                économiques. Que vous soyez en ville ou dans une autre localité.</p>
+            </div>
+            <div class="project">
+              <img src="./images/trotinette.png" alt="trotinette" height="310" />
+              <p class="article">Découvrez notre nouveau service de location de trottinettes avec Canva ! Profitez d’un
+                moyen de transport
+                pratique, écologique et économique pour vos déplacements en ville. Que vous soyez à la recherche d’une
+                option rapide pour aller au travail ou d’explorer votre ville.</p>
+            </div>
+            <div class="project">
+              <img src="./images/covoiturage.png" alt="voiture" height="310" />
+              <p class="article">Participez à notre concours et gagnez l’un des 10 abonnements gratuits pour une
+                application de
+                covoiturage. Réduisez votre empreinte carbone tout en gagnant des prix excitants. Rejoignez-nous pour
+                une
+                initiative de mobilité durable.</p>
+            </div>
+            <div class="project">
+              <img src="./images/velo2.png" alt="velo" height="310" />
+              <p class="article">Canva vous offre la chance de remporter l’un de ses 10 vélos ! Participez à notre
+                concours et tentez
+                votre chance pour gagner un vélo qui vous permettra de vous déplacer en toute liberté et de manière
+                écologique. Restez actifs et gagnez de formidables prix !</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Footer -->
+
       </div>
-
-      <!-- Footer -->
-      <footer>
-        <p>&copy; 2024 Clone Canva. Tous droits réservés.</p>
-      </footer>
     </div>
-  </div>
-
-  <script src="script.js"></script>
+  </main>
+  <footer>
+    <p>&copy; 2024 Clone Canva. Tous droits réservés.</p>
+  </footer>
 </body>
 
 </html>
