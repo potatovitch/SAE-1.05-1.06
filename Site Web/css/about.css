@@ -1,0 +1,33 @@
+.container-col {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  width: 350px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+
+.container-col h2,
+.container-row h1,
+hr {
+  color: var(--third-color);
+}
+
+.container-row h1 {
+    color: var();
+}
+
+.container-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.container-row img{
+    height: 350px;
+    width: auto;
+}
+
+.container-size{
+    padding-inline: 10%;
+}

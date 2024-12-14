@@ -1,86 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
+/* login et register */
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="../css/style.css" />
-  <link rel="stylesheet" href="../css/login.css" />
-  <link rel="icon" href="../images/icon.png" type="image/png" />
-  <title>Login</title>
-</head>
+/* Page de Connexion */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(
+    to right,
+    var(--main-color),
+    rgba(17, 223, 230, 0.726)
+  );
+}
 
-<body>
-  <header>
-    <div class="logo">
-      <a href="https://www.canva.com/">
-        <img src="../images/logo.svg" alt="Logo Canva" />
-      </a>
-    </div>
+.login-box {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  width: 350px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
 
-    <div class="header-div">
-      <input type="text" class="search-bar" placeholder="Rechercher des modèles, éléments..." />
-      <button class="btn-login">Se connecter</button>
-      <button class="btn-signup">Créer un compte</button>
-    </div>
-  </header>
+.login-box h1 {
+  text-align: center;
+  color: #6a5acd;
+}
 
-  <!-- Conteneur principal pour Sidebar et Content -->
-  <div class="container">
-    <!-- Barre latérale -->
-    <div class="sidebar">
-      <ul>
-        <a class="icon-home" href="../index.html">
-          <li>Accueil</li>
-        </a>
-        <a class="icon-templates" href="../sources/ecomobilite.html">
-          <li>Eco Mobilite</li>
-        </a>
-        <a class="icon-projects" href="../sources/covoiturage.html">
-          <li>Covoiturage</li>
-        </a>
-        <a class="icon-settings" href="../sources/location.html">
-          <li>Location</li>
-        </a>
-        <a class="icon-photos" href="../sources/velo.html">
-          <li>Velo</li>
-        </a>
-        <a class="icon-elements" href="../sources/trotinette.html">
-          <li>Trotinette</li>
-        </a>
-        <a class="icon-all" href="../sources/info.html">
-          <li>Info</li>
-        </a>
-      </ul>
-    </div>
+#email,
+#mdp,
+#continue-btn {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+}
 
-    <!-- Contenu principal -->
-    <div class="main-content">
+#email:focus,
+#mdp:focus,
+#continue-btn:focus {
+  accent-color: var(--third-color);
+}
 
+#email:hover,
+#mdp:hover,
+#continue-btn:hover {
+  accent-color: var(--main-color);
+  border-color: var(--main-color);
+}
 
-      <div class="login-container">
-        <div class="login-box">
-          <h1>
-            Se Connecter
-          </h1>
-        </div>
-
-        <div class="login-box">
-          <input id="email" type="email" placeholder="email">
-          <input id="mdp" type="password" placeholder="mot de passe"></input>
-          <!-- changer la redirection -->
-          <button id="continue-btn"><a href="#">continue</a></button>
-
-        </div>
-      </div>
-
-      <!-- Footer -->
-      <footer>
-        <p>&copy; 2024 Clone Canva. Tous droits réservés.</p>
-      </footer>
-    </div>
-
-  </div>
-</body>
-
-</html>
+#continue-btn {
+  background-color: var(--main-color);
+  color: #fff;
+}

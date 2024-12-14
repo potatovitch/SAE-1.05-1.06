@@ -8,6 +8,11 @@
   */
 }
 
+li{
+  padding: 0;
+  margin: 0;
+}
+
 /* Général */
 * {
   margin: 0;
@@ -32,6 +37,15 @@ a,
 a:visited {
   color: #fff;
   text-decoration: none;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+
+.sidebar a{
+  display: flex;
+  height: 100%;
+  width: 100%;
 }
 
 /* Container principal */
@@ -72,7 +86,7 @@ header .header-div {
 
 header .search-bar {
   padding: 10px 20px;
-  border-radius: 12px;
+  border-radius: 25px;
   border: 1px solid #ddd;
   font-size: 16px;
   transition: all 0.3s ease;
@@ -145,7 +159,6 @@ header .btn-signup:hover {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
   color: #333;
-  margin-bottom: 10px;
 }
 
 /* Templates et Projets */
@@ -159,11 +172,6 @@ header .btn-signup:hover {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
-  justify-content: space-around;
-}
-.template img,
-.projecs img {
-  border-radius: 12px;
 }
 
 .template,
@@ -171,57 +179,36 @@ header .btn-signup:hover {
   width: 22%;
   background-color: #fff;
   border-radius: 8px;
-  box-shadow: 8px 8px 8px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  transition: 0.3s ease;
+  transition: transform 0.3s ease;
   text-align: center;
-  margin: 5px;
-  padding: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 
 .template h3,
 .project h3 {
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
   color: #6a5acd;
 }
 
 .template p,
 .project p {
-  padding: 5px;
-  font-size: 14px;
-  font-weight: 700;
+  padding: 15px;
+  font-size: 16px;
+  font-weight: 400;
   color: #333;
-}
-
-.templates-section h2 {
-  margin: 5px;
-  font-size: 22px;
-  font-weight: bold;
-  padding: 10px;
-  margin: 10px;
-}
-
-.templates-section p,
-.projects-section p {
-  margin: 15px;
-  margin-bottom: 25px;
-  font-size: 18px;
-  font-weight: bold;
 }
 
 .template:hover,
 .project:hover {
-  background-color: #decdff;
-  transform: translateY(-15px);
+  transform: translateY(-5px);
 }
 
 .p-div {
-  background: linear-gradient(
-    to right,
-    #00a3e0,
-    #005f7a
-  ); /* Dégradé sur fond */
+  background: linear-gradient(45deg, #ff9ebc, #6a5acd); /* Dégradé sur fond */
   padding: 50px;
   border-radius: 8px;
   margin-bottom: 30px;
@@ -303,11 +290,4 @@ footer {
 .nav .btn-login,
 .nav .btn-signup {
   margin-left: 10px;
-}
-
-.article {
-  text-align: justify;
-  font-size: xx-small; /* Taille de texte plus petite (13px) */
-  line-height: 1.2; /* Espacement entre les lignes de texte pour améliorer la lisibilité */
-  color: #333; /* Couleur du texte */
 }
